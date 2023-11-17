@@ -14,6 +14,7 @@ Education
 * B.Sc. in Physics, Ramakrishna Mission Residential College, Narendrapur, (University of Calcutta), 2012
 * M.Sc. in Physics, Indian Institute of Technology, Kanpur, 2014
 * Ph.D in Theoretical Condensed Matter Physics, Tata Institute of Fundamental research, Mumbai, 2019
+  * Advisor: Prof. Rajdeep Sensarma
 
 Work experience
 ======
