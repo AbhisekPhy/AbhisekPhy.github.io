@@ -19,15 +19,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2022: Postdoctoral Researcher
+  * Physics Department, Technion -- Israel Institute of Technology, Haifa 
+  * Supervisors: Prof. Assa Auerbach and Prof. Daniel Podolsky
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-: Postdoctoral Researcher
+  * Department of Physics, The Ohio State University, Columbus 
+  * Supervisors: Prof. Mohit Randeia and Prof. Nandini Trivedi
   
 Skills
 ======
