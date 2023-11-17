@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<ol><li>A. Samanta. <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201">name of the paper.</a><em> PRB</em> Phys. Rev. B 102, 104201 – Published 2 September 2020</li>
+<ol><li>A. Samanta. <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201">name of the paper.</a><em> PRB</em> Phys. Rev. B 102, 104201 – Published 2 September 2020</li><li>A. Samanta. <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201">name of the paper.</a><em> PRB</em> Phys. Rev. B 102, 104201 – Published 2 September 2020</li>
 
 
 {% if author.googlescholar %}
