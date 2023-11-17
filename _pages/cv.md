@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, Ramakrishna Mission Residential College, Narendrapur, (University of Calcutta), 2012
+* M.Sc. in Physics, Indian Institute of Technology, Kanpur, 2014
+* Ph.D in Theoretical Condensed Matter Physics, Tata Institute of Fundamental research, Mumbai, 2019
 
 Work experience
 ======
