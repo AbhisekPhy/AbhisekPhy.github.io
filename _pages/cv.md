@@ -24,7 +24,7 @@ Work experience
   * Supervisors: Prof. Assa Auerbach and Prof. Daniel Podolsky
 
 * 2022-: Postdoctoral Researcher
-  * Department of Physics, The Ohio State University, Columbus 
+  * Department of Physics, The Ohio State University, Columbus (OH), USA 
   * Supervisors: Prof. Mohit Randeia and Prof. Nandini Trivedi
   
 Skills
