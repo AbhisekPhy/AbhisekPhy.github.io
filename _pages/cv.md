@@ -29,12 +29,18 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analytical Skills
+  * Inhomogeneous mean-field theory
+  * Functional integral formalism
+  * Renormalization Group (RG) analysis and epsilon expansion
+  * High-temperature expansion
+  * Parton mean-field theory
+* Numerical Skills
+  * Determinant Quantum Monte Carlo (DQMC) and analytic continuation methods
+  * Efficient Classical Monte Carlo methods (Wolff Cluster, Worm algorithm) 
+  * Large scale exact diagonalization in interactig electron systems and spin systems
+* Computational Skills
+  * Proficient in C, Julia, Python, Matlab, Mathematica, etc.
 
 Publications
 ======
