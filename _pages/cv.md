@@ -30,11 +30,10 @@ Work experience
 Skills
 ======
 * Analytical Skills
-  * Inhomogeneous mean-field theory
-  * Functional integral formalism
+  * Functional integral formalism, Bosonic fluctuation theory
   * Renormalization Group (RG) analysis and epsilon expansion
   * High-temperature expansion
-  * Parton mean-field theory
+  * Inhomogeneous Bogoliubov de-Gennes (BdG) mean-field theory, Parton mean-field theory
 * Numerical Skills
   * Determinant Quantum Monte Carlo (DQMC) and analytic continuation methods
   * Efficient Classical Monte Carlo methods (Wolff Cluster, Worm algorithm) 
