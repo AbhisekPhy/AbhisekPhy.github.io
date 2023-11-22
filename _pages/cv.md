@@ -27,18 +27,18 @@ Work experience
   * Department of Physics, The Ohio State University, Columbus (OH), USA 
   * Supervisors: Prof. Mohit Randeia and Prof. Nandini Trivedi
   
-Skills
+Technical skills
 ======
-* Analytical Skills
+* Analytical
   * Functional integral formalism, Bosonic fluctuation theory
   * Renormalization Group (RG) analysis and epsilon expansion
   * High-temperature expansion
   * Inhomogeneous Bogoliubov de-Gennes (BdG) mean-field theory, Parton mean-field theory
-* Numerical Skills
+* Numerical
   * Determinant Quantum Monte Carlo (DQMC) and analytic continuation methods
   * Efficient Classical Monte Carlo methods (Wolff Cluster, Worm algorithm) 
   * Large scale exact diagonalization in interactig electron systems and spin systems
-* Computational Skills
+* Computational/coding language
   * Proficient in C, Julia, Python, Matlab, Mathematica, etc.
 
 Publications
