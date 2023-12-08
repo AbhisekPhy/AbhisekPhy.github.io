@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 ## Disordered superconductors and their collective modes (Higgs, Goldstone)
-One of the most fascinating examples of the interplay between interaction and localization is the destruction of superconductivity with increasing disorder in thin-films, resulting in the superconductor-insulator transition (SIT). This transition is driven by both phase (Goldstone) and amplitude (Higgs) fluctuations of the superconducting order parameter that are the key low-energy collective excitations. The single particle gap remains while the it fills up (instead of closing) with temperature. Using Determinant Quantum Monte Carlo simulations of the disordered -U Hubbard model we study  
+One of the most fascinating examples of the interplay between interaction and localization is the destruction of superconductivity with increasing disorder in thin-films, resulting in the superconductor-insulator transition (SIT). The gap in the single-particle density of states (DOS) remains finite across the transition, and the low-energy excitations of the system are the collective excitations of the superconducting order parameter.  
+
+
+
+This transition is driven by both phase (Goldstone) and amplitude (Higgs) fluctuations of the superconducting order parameter that are the key low-energy collective excitations. The single particle gap remains while the it fills up (instead of closing) with temperature. Using Determinant Quantum Monte Carlo simulations of the disordered -U Hubbard model we study  
 
 Using functional integral and Gaussian fluctuation theory, In these disordered superconductors, we have constructed two-particle density of states which include both Higgs and Goldstone fluctuations, and studied their evolution with disorder. We made testable predictions for superconducting puddles, probed by scanning Josephson spectroscopy (SJS) and scanning tunneling spectroscopy (STS). For momentum-resolved spectral functions, we found that disorder creates a sub-gap Higgs mode and flattens the Goldstone mode. In the presence of weak disorder, the Higgs mode remains spectrally separated from the Goldstone mode for a large range of temperatures, thereby making it a possible candidate to observe in energy-resolved spectroscopies.
 
