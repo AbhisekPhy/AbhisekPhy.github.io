@@ -17,7 +17,7 @@ Using functional integral and Gaussian fluctuation theory, In these disordered s
 
 Future explorations will include study of unconventional superconductivity, as seen in low-density heterostructure-based SCs, such as , which show promise in candidate materials for quantum computations due to high kinetic inductances.
 
-## Transport properties (Hall, Seebeck coefficients) of semimetals and interacting systems
+## Transport and thermopower properties of semimetals and interacting systems
 ![](/images/Hall.jpg){: style="width: 500px; float: right; border: 10px"}
 The Hall coefficient ($R_H$) has been traditionally used to measure the charge carrier density in transport measurements, via the Drude relation $R_H\sim \frac{1}{n}$. However, this relation may break down in semimetals due to the presence of multiple bands and intriguing Fermi surface topology. Multiband conductivity calculations involve coupled Boltzmann equations with interband collision integrals which are quite challenging. We can avoid this difficulty by using a recently developed Hall coefficient formula [Auerbach et al] written in terms of thermodynamic susceptibilities. We have calculated the deviation of $R_H$ from the Drude relation in spin-split semiconductor bands, as well as Weyl and nodal-line semimetals [<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Samanta et al</a>]. We proposed experiments to measure these deviations. 
 
