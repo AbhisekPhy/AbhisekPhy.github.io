@@ -7,7 +7,7 @@ author_profile: true
 
 ## Disordered superconductors and their collective modes (Higgs, Goldstone)
 One of the most fascinating examples of the interplay between interaction and localization is the destruction of superconductivity with increasing disorder in thin-films, resulting in the superconductor-insulator transition (SIT). Using quantum Monte Carlo (QMC) simulations on the disordered fermionic Hubbard model that includes thermal and quantum fluctuations, we provide a detailed description of different phases in these systems, their transition and critical behavior at finite temperature. We show that while the single-particle density of states (DOS) remains gapped across the transition, the low-energy excitations of this system are the dynamical fluctuations of the amplitude (Higgs) and phase (Goldstone mode) of the superconducting order parameter. With increase in temperature, the gap does not close, instead it fills up which is of recent experimental interest conventional superconductors, as well as in cuprates.   
-$$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping!
+$a^2 + b^2 = c^2\chi$ --> note that all equations between these tags will not need escaping!
 
 To understand the behavior of the Higgs and the Goldstone modes individually, we use functional integral formalism and bosonic Gaussian fluctuation theory.
 
