@@ -19,19 +19,11 @@ Future explorations will include study of unconventional superconductivity, as s
 
 ## Transport properties (Hall, Seebeck coefficients) of semimetals and interacting systems
 ![](/images/Hall.jpg){: style="width: 500px; float: right; border: 10px"}
-The Hall coefficient ($R_H$) has been traditionally used to measure the charge carrier density in transport measurements, via the Drude relation $R_H\sim \frac{1}{n}$. However, this relation may break down in semimetals due to the presence of multiple bands and intriguing Fermi surface topology. Multiband conductivity calculations involve coupled Boltzmann equations with interband collision integrals which are quite challenging. We can avoid this difficulty by using a recently developed Hall coefficient formula [Auerbach et al] written in terms of thermodynamic susceptibilities. We have calculated the deviation of $R_H$ from the Drude relation in spin-split semiconductor bands, as well as Weyl and nodal-line semimetals [Samanta et al]. We proposed experiments to measure these deviations. 
+The Hall coefficient ($R_H$) has been traditionally used to measure the charge carrier density in transport measurements, via the Drude relation $R_H\sim \frac{1}{n}$. However, this relation may break down in semimetals due to the presence of multiple bands and intriguing Fermi surface topology. Multiband conductivity calculations involve coupled Boltzmann equations with interband collision integrals which are quite challenging. We can avoid this difficulty by using a recently developed Hall coefficient formula [Auerbach et al] written in terms of thermodynamic susceptibilities. We have calculated the deviation of $R_H$ from the Drude relation in spin-split semiconductor bands, as well as Weyl and nodal-line semimetals [<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Samanta et al]. We proposed experiments to measure these deviations. 
 
 In interacting systems, we have calculated $R_H$ over a large range of temperatures between the antiferromagnetic interaction and the Mott gap scales, by using high-temperature expansion of the t-J model, supplemented by DQMC simulations of the strongly interacting Hubbard model. Our calculation explains the observation of "Hall anomalies" in experiments, i.e. abrupt changes in sign and magnitude of $R_H$ in high temperature cuprates. My current research interest is to explore the thermopower properties (Seebeck) of several multi-band models, semimetals and interacting systems, with the recent proposal of semimetals as good candidate of efficient thermoelectric materials and anomalies in cuprate experiments.
 
-
-
-by using high temperature expansion of the t-J model, supplemented by DQMC simulations of the Hubbard model [Khait et al]. Our calculation explains the observation of "Hall anomalies", i.e. abrupt changes in sign and magnitude of $R_H$ in high temperature cuprates. A similar anomaly has also been observed in the thermopower measurements (thermoelectric power, or the Seebeck coefficient S) [12,13]. Using thermodynamic Kelvin formula [14] we perform DQMC simulations in the Hubbard model and calculated the Seebeck coefficient [15]. Our results captured strong dependence of S on lattice geometry, as well as nontrivial doping dependent behavior with strong interactions, as seen in cuprate experiments.
-
-hence is amenable to well-controlled statistical mechanics methods.
-
-By using a recently developed Hall coefficient formula [Auerbach et al] written in terms of thermodynamic susceptibilities, we can avoid the complications of coupled Boltzmann equations in multi-band Hamiltonians and calculate $R_H$ of multi-band systems. e have calculated the deviation of RH from the Drude relation in spin-split semiconductor bands, as well as Weyl and nodal-line semimetals [9].
-Moreover, we proposed experiments to measure these deviations <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Physical Review B 102.
-
+Moreover, we proposed experiments to measure these deviations  
 
 
 
