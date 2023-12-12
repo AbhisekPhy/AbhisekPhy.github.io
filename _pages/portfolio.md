@@ -7,7 +7,9 @@ author_profile: true
 
 ## Disordered superconductors and their collective modes (Higgs, Goldstone)
 Superconductivity, charazcterized by the pairing wavefunction of the Copoper pairs, can be destroyed even when the pairing amplitude remains finite. This happens in strongly disordered thin-films when the phase coherence of the Cooper pairs is lost, leading to the superconductor-insulator transition (SIT). While the single-particle density of states (DOS) remains gapped across the transition, the low-energy excitations of this system are the dynamical fluctuations of the amplitude (Higgs) and phase (Goldstone mode) of the complex order parameter. The inhomogeneous Bogoliubov de-Gennes mean-field theory treats the disorder exactly, but misses the fluctuations (both quantum and thermal) completely. In our work, we develop a functional integral formalism, 
-where the BdG mean-field theory can be obtained as a static but spatially inhomogeneous saddle point of the system, but can add fluctuations beyond that.
+where the BdG mean-field theory can be obtained as a static but spatially inhomogeneous saddle point of the system, but can add fluctuations beyond that. Our theoretical approach also allows us to separate the contribution of the amplitude (Higgs) modes, phase modes, and the amplitude-phase mixing.
+
+
 
 use functional integral formalism and effective bosnic action, capable of adding fluctuations beyond the saddle-point, and study the evolution of collective Higgs and Goldstone modes with disorder and temperature.
 
