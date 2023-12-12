@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 ## Disordered superconductors and their collective modes (Higgs, Goldstone)
-Superconductivity, charazcterized by the pairing wavefunction of the Copoper pairs, can be destroyed even when the pairing amplitude remains finite. This happens in strongly disordered thin-films when the phase coherence of the Cooper pairs is lost, leading to the superconductor-insulator transition (SIT). While the single-particle density of states (DOS) remains gapped across the transition, the low-energy excitations of this system are the dynamical fluctuations of the amplitude (Higgs) and phase (Goldstone mode) of the complex order parameter. The inhomogeneous Bogoliubov de-Gennes mean-field theory treats the disorder exactly, but misses the fluctuations (both quantum and thermal) completely. In our work, we develop a functional integral formalism, 
-where the BdG mean-field theory remains as a static and spatially inhomogeneous saddle point, but adds fluctuations beyond that.
+Superconductivity, charazcterized by the pairing wavefunction of the Copoper pairs, can be destroyed even when the pairing amplitude remains finite. This happens in strongly disordered thin-films when the phase coherence of the Cooper pairs is lost, leading to the superconductor-insulator transition (SIT). While the single-particle density of states (DOS) remains gapped across the transition, the low-energy excitations of this system are the dynamical fluctuations of the amplitude (Higgs) and phase (Goldstone mode) of the complex order parameter. The well-known inhomogeneous Bogoliubov de-Gennes (BdG) mean-field theory treats the disorder in the system exactly, but misses the fluctuations (both quantum and thermal) completely. In our work, we use a functional integral formalism, where the BdG mean-field theory remains as a static and spatially inhomogeneous saddle point, and construct a bosonic fluctuation theory to study the collective modes 
+
+but adds fluctuations beyond that.
 
 
 use functional integral formalism and effective bosnic action, capable of adding fluctuations beyond the saddle-point, and study the evolution of collective Higgs and Goldstone modes with disorder and temperature.
