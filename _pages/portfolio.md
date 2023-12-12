@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Disordered superconductors and their collective modes (Higgs, Goldstone)
-Superconductivity, charazcterized by the pairing wavefunction of the Copoper pairs, can be destroyed even when the pairing amplitude remains finite. This happens in strongly disordered thin-films when the phase coherence among the superconducting puddles are lost due to phase fluctuations leading to the superconductor-insulator transition (SIT). 
+Superconductivity, charazcterized by the pairing wavefunction of the Copoper pairs, can be destroyed even when the pairing amplitude remains finite. This happens in strongly disordered thin-films when the phase coherence among the superconducting puddles are lost due to phase fluctuations leading to the superconductor-insulator transition (SIT). While the single-particle excitation remains gapped across the transition, the low-energy excitations of this system are the dynamical fluctuations of the amplitude (Higgs) and phase (Goldstone mode) of the complex order parameter.
 
 One of the most fascinating examples of the interplay between interaction and localization is the destruction of superconductivity with increasing disorder in thin-films, resulting in the superconductor-insulator transition (SIT). While the single-particle density of states (DOS) remains gapped across this transition, the SIT is driven by phase (Goldstone) and amplitude (Higgs) fluctuations of the superconducting order parameter. We study the 
 
