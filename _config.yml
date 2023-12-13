@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Abhisek Samanta"
   avatar           : "Photo_Abhisek.jpg"
-  bio              : "Postdoctoral Researcher,  <br /> The Ohio State University, <br /> Columbus (OH), USA <br /> <br /> <b>Email:</b> samanta.12@osu.edu"
+  bio              : "Postdoctoral Researcher,  <br /> The Ohio State University, <br /> Columbus (OH), USA <br />" #<br /> <b>Email:</b> samanta.12@osu.edu"
   location         : "Columbus, Ohio, USA"
   employer         :
   pubmed           : 
