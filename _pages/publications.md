@@ -7,6 +7,10 @@ author_profile: true
 
 
 <ol><li>Abhisek Samanta, Kedar Damle, Rajdeep Sensarma, <em>Tracking the many-body localized to ergodic transition via extremal statistics of entanglement eigenvalues</em>, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Physical Review B 102, 104201 (2020)</a></li>
+
+<li>Abhisek Samanta, Itay Mangel, Amit Keren, Daniel P. Arovas, Assa Auerbach, <em>The two critical temperatures conundrum in La$_{1.83}$Sr$_{0.17}$CuO$_4$</em>, <a
+href="https://arxiv.org/abs/2308.15540"> arXiv:2308.15540</a><li>
+  
 <li>Abhisek Samanta, Kedar Damle, Rajdeep Sensarma, <em>Tracking the many-body localized to ergodic transition via extremal statistics of entanglement eigenvalues</em>, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Physical Review B 102, 104201 (2020)</a></li>
 
 {% if author.googlescholar %}
