@@ -10,7 +10,7 @@ author_profile: true
 
 <li> Willdauany C. de Freitas Silva, Maykon V. M. Araujo, Sayantan Roy, Abhisek Samanta, Natanael de C. Costa, Nandini Trivedi and Thereza Paiva, <em>Effects of strong electronic interactions on the thermopower properties of the repulsive Hubbard model</em>, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.075101"> Physical Review B 108, 075101 (2023)</a></li>
 
-<li> Ilia Khait, Sauri Bhattacharyya, Abhisek Samanta, Assa Auerbach, <em>Hall anomalies of the doped Mott insulator</em>, <a href= "https://www.nature.com/articles/s41535-023-00611-5"> npj Quantum Materials 8, 75 (2023) </a></li>
+<li> Ilia Khait, Sauri Bhattacharyya, Abhisek Samanta, Assa Auerbach, <a href= "https://www.nature.com/articles/s41535-023-00611-5"> Hall anomalies of the doped Mott insulator</a>, npj Quantum Materials 8, 75 (2023) </li>
 
 <li> Noble Gluscevich*, Abhisek Samanta*, Sourav Manna, Bitan Roy, <em>Dynamic mass generation on two-dimensional electronic hyperbolic lattices</em>, <a
 href= "https://arxiv.org/abs/2302.04864"> arXiv:2302.04864 </a></li>
