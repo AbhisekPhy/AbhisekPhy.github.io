@@ -8,7 +8,7 @@ author_profile: true
 
 <ol> <li> Abhisek Samanta, Itay Mangel, Amit Keren, Daniel P. Arovas, Assa Auerbach, <em>The two critical temperatures conundrum in La$_{1.83}$Sr$_{0.17}$CuO$_4$</em>, <a href="https://arxiv.org/abs/2308.15540"> arXiv:2308.15540 </a> </li>
 
-<li> Willdauany C. de Freitas Silva, Maykon V. M. Araujo, Sayantan Roy, Abhisek Samanta, Natanael de C. Costa, Nandini Trivedi and Thereza Paiva, <em>Effects of strong electronic interactions on the thermopower properties of the repulsive Hubbard model</em>, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.075101"> Physical Review B 108, 075101 (2023)</a></li>
+<li> Willdauany C. de Freitas Silva, Maykon V. M. Araujo, Sayantan Roy, Abhisek Samanta, Natanael de C. Costa, Nandini Trivedi and Thereza Paiva, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.075101"> Effects of strong electronic interactions on the thermopower properties of the repulsive Hubbard model</a>, Physical Review B <b>108</b>, 075101 (2023) </li>
 
 <li> Ilia Khait, Sauri Bhattacharyya, Abhisek Samanta, Assa Auerbach, <a href= "https://www.nature.com/articles/s41535-023-00611-5"> Hall anomalies of the doped Mott insulator</a>, npj Quantum Materials <b>8</b>, 75 (2023) </li>
 
