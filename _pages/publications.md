@@ -16,7 +16,7 @@ author_profile: true
 
 <li> Bo Fan, Abhisek Samanta, Antonio M. Garcia-Garcia, <a href= "https://arxiv.org/abs/2302.04864"> Tuning superinductors by quantum coherence effects for enhancing quantum computing</a>, Physical Review Letters <b>130</b>, 047001 (2023) </li>
 
-<li> Abhisek Samanta, Efrat Shimshoni, Daniel Podolsky, <a href= "https://arxiv.org/abs/2302.04864"> Phonon-induced modification of quantum criticality </a>, Physical Review B <b>106</b>, 035154 (2022) </li>
+<li> Abhisek Samanta, Efrat Shimshoni, Daniel Podolsky, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035154"> Phonon-induced modification of quantum criticality </a>, Physical Review B <b>106</b>, 035154 (2022) </li>
 
 <li> Prathyush P. Poduval, Abhisek Samanta, Prashant Gupta, Nandini Trivedi, Rajdeep Sensarma, <a href= "https://arxiv.org/abs/2302.04864"> Subgap two-particle spectral weight in disordered s-wave superconductors: Insights from mode coupling approach </a>, Physical Review B <b>106</b>, 064512 (2022) </li>
 
