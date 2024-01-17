@@ -33,7 +33,7 @@ Technical skills
   * Functional integral formalism, Bosonic fluctuation theory
   * Renormalization Group (RG) analysis and $\epsilon$ expansion
   * High-temperature series expansion
-  * Inhomogeneous Bogoliubov de-Gennes (BdG) mean-field theory, Parton mean-field theory, Large $N$ approximation
+  * Inhomogeneous Bogoliubov-de Gennes (BdG) mean-field theory, Parton mean-field theory, Large $N$ approximation
 * Numerical
   * Quantum Monte Carlo (QMC) and analytic continuation methods
   * Efficient Classical Monte Carlo methods (Wolff cluster, Worm algorithm) 
