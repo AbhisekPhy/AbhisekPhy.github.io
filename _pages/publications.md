@@ -28,17 +28,17 @@ author_profile: true
 
 <li> Abhisek Samanta, Daniel P. Arovas, Assa Auerbach, <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.076603"> Hall coefficient of semimetals</a>, Physical Review Letters <b>126</b>, 076603 (2021) </li>
 
-<li> Abhisek Samanta, Kedar Damle, Rajdeep Sensarma, <a href= "https://arxiv.org/abs/2302.04864"> Tracking the many-body localized to ergodic transition via extremal statistics of entanglement eigenvalues</a>, Physical Review B <b>102</b>, 104201 (2020) </li>
+<li> Abhisek Samanta, Kedar Damle, Rajdeep Sensarma, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Tracking the many-body localized to ergodic transition via extremal statistics of entanglement eigenvalues</a>, Physical Review B <b>102</b>, 104201 (2020) </li>
 
-<li> Abhisek Samanta, Amulya Ratnakar, Nandini Trivedi and Rajdeep Sensarma, <a href= "https://arxiv.org/abs/2302.04864"> Two-particle spectral function for disordered $s$-wave superconductors: local maps and collective modes </a>, Physical Review B <b>101</b>, 024507 (2020) </li>
+<li> Abhisek Samanta, Amulya Ratnakar, Nandini Trivedi and Rajdeep Sensarma, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.024507"> Two-particle spectral function for disordered $s$-wave superconductors: local maps and collective modes </a>, Physical Review B <b>101</b>, 024507 (2020) </li>
 
-<li> B. Datta, H. Agarwal, Abhisek Samanta, A. Ratnakar, K. Watanabe, T. Taniguchi, Rajdeep Sensarma, Mandar M. Deshmukh, <a href= "https://arxiv.org/abs/2302.04864"> Landau level diagram and the continuous rotational symmetry breaking in trilayer graphene</a>, Physical Review Letters <b>121</b>, 056801 (2018) </li>
+<li> B. Datta, H. Agarwal, Abhisek Samanta, A. Ratnakar, K. Watanabe, T. Taniguchi, Rajdeep Sensarma, Mandar M. Deshmukh, <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.056801"> Landau level diagram and the continuous rotational symmetry breaking in trilayer graphene</a>, Physical Review Letters <b>121</b>, 056801 (2018) </li>
 
-<li> B. Datta, S. Dey, Abhisek Samanta, A. Borah, K. Watanabe, T. Taniguchi, Rajdeep Sensarma, Mandar M. Deshmukh, <a href= "https://arxiv.org/abs/2302.04864"> Strong electronic interaction and multiple quantum Hall ferromagnetic phases in trilayer graphene</a>, Nature Communications <b>8</b>, 14518 (2017) </li>
+<li> B. Datta, S. Dey, Abhisek Samanta, A. Borah, K. Watanabe, T. Taniguchi, Rajdeep Sensarma, Mandar M. Deshmukh, <a href= "https://www.nature.com/articles/ncomms14518"> Strong electronic interaction and multiple quantum Hall ferromagnetic phases in trilayer graphene</a>, Nature Communications <b>8</b>, 14518 (2017) </li>
 
-<li> Abhisek Samanta, Rajdeep Sensarma, <a href= "https://arxiv.org/abs/2302.04864"> Superconductivity from doublon condensation in the ionic Hubbard model</a>, Physical Review B <b>94</b>, 224517 (2016) </li>
+<li> Abhisek Samanta, Rajdeep Sensarma, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.224517"> Superconductivity from doublon condensation in the ionic Hubbard model</a>, Physical Review B <b>94</b>, 224517 (2016) </li>
 
-<li> Anshuman Dey, Abhisek Samanta, Tapobrata Sarkar, <a href= "https://arxiv.org/abs/2302.04864"> Fermi normal coordinates and fermion curvature couplings in General Relativity</a>, Physical Review D <b>89</b>, 104008 (2014) </li>
+<li> Anshuman Dey, Abhisek Samanta, Tapobrata Sarkar, <a href= "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.89.104008"> Fermi normal coordinates and fermion curvature couplings in General Relativity</a>, Physical Review D <b>89</b>, 104008 (2014) </li>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
