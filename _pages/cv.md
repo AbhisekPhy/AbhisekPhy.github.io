@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Physics, Ramakrishna Mission Residential College, Narendrapur, (University of Calcutta), 2012
+* B.Sc. in Physics, Ramakrishna Mission Residential College, Narendrapur, University of Calcutta, 2012
 * M.Sc. in Physics, Indian Institute of Technology, Kanpur, 2014
 * Ph.D in Physics, 2014-2019
   * Department of Theoretical Physics (DTP), Tata Institute of Fundamental research, Mumbai
@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * 2019-2022: Postdoctoral Researcher
-  * Physics Department, Technion -- Israel Institute of Technology, Haifa 
+  * Physics Department, Technion -- Israel Institute of Technology, Haifa, Israel 
   * Supervisors: Prof. Assa Auerbach and Prof. Daniel Podolsky
 
 * 2022-: Postdoctoral Researcher
@@ -31,34 +31,13 @@ Technical skills
 ======
 * Analytical
   * Functional integral formalism, Bosonic fluctuation theory
-  * Renormalization Group (RG) analysis and epsilon expansion
-  * High-temperature expansion
-  * Inhomogeneous Bogoliubov de-Gennes (BdG) mean-field theory, Parton mean-field theory
+  * Renormalization Group (RG) analysis and $\epsilon$ expansion
+  * High-temperature series expansion
+  * Inhomogeneous Bogoliubov de-Gennes (BdG) mean-field theory, Parton mean-field theory, Large $N$ approximation
 * Numerical
-  * Determinant Quantum Monte Carlo (DQMC) and analytic continuation methods
-  * Efficient Classical Monte Carlo methods (Wolff Cluster, Worm algorithm) 
-  * Large scale exact diagonalization in interactig electron systems and spin systems
+  * Quantum Monte Carlo (DQMC) and analytic continuation methods
+  * Efficient Classical Monte Carlo methods (Wolff cluster, Worm algorithm) 
+  * Large scale exact diagonalization, Lanczos methods in interactig electron systems and spin systems
 * Computational/coding language
   * Proficient in C, Julia, Python, Matlab, Mathematica, etc.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
