@@ -6,23 +6,22 @@ author_profile: true
 ---
 
 
-<ol> <li> <b>Abhisek Samanta</b>, Itay Mangel, Amit Keren, Daniel P. Arovas, Assa Auerbach, <a href="https://arxiv.org/abs/2308.15540"> The two critical temperatures conundrum in La$_{1.83}$Sr$_{0.17}$CuO$_4$</a>, arXiv:2308.15540 </a> </li>
+<ol> <li> <b>Abhisek Samanta</b>, Itay Mangel, Amit Keren, Daniel P. Arovas, Assa Auerbach, <a href="https://arxiv.org/abs/2308.15540"> The two critical temperatures conundrum in La$_{1.83}$Sr$_{0.17}$CuO$_4$</a>, arXiv:2308.15540 </li>
 
 <li> Willdauany C. de Freitas Silva, Maykon V. M. Araujo, Sayantan Roy, <b>Abhisek Samanta</b>, Natanael de C. Costa, Nandini Trivedi and Thereza Paiva, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.075101"> Effects of strong electronic interactions on the thermopower properties of the repulsive Hubbard model</a>, Physical Review B <b>108</b>, 075101 (2023) </li>
 
-<li> Ilia Khait, Sauri Bhattacharyya, Abhisek Samanta, Assa Auerbach, <a href= "https://www.nature.com/articles/s41535-023-00611-5"> Hall anomalies of the doped Mott insulator</a>, npj Quantum Materials <b>8</b>, 75 (2023) </li>
+<li> Ilia Khait, Sauri Bhattacharyya, <b>Abhisek Samanta</b>, Assa Auerbach, <a href= "https://www.nature.com/articles/s41535-023-00611-5"> Hall anomalies of the doped Mott insulator</a>, npj Quantum Materials <b>8</b>, 75 (2023) </li>
 
 <li> Noble Gluscevich*, <b>Abhisek Samanta</b>*, Sourav Manna, Bitan Roy, <em>Dynamic mass generation on two-dimensional electronic hyperbolic lattices</em>, <a
 href= "https://arxiv.org/abs/2302.04864"> arXiv:2302.04864 </a></li>
 
-<li> Bo Fan, Abhisek Samanta, Antonio M. Garcia-Garcia, <em>Tuning superinductors by quantum coherence effects for enhancing quantum computing</em>, <a
-href= "https://arxiv.org/abs/2302.04864"> Physical Review Letters 130, 047001 (2023) </a></li>
+<li> Bo Fan, <b>Abhisek Samanta</b>, Antonio M. Garcia-Garcia, <a
+href= "https://arxiv.org/abs/2302.04864"> Tuning superinductors by quantum coherence effects for enhancing quantum computing</a>, Physical Review Letters <b>130</b>, 047001 (2023) </li>
 
-<li> Abhisek Samanta, Efrat Shimshoni, Daniel Podolsky, <em>Phonon-induced modification of quantum criticality</em>, <a
-href= "https://arxiv.org/abs/2302.04864"> Physical Review B 106, 035154 (2022) </a></li>
+<li> <b>Abhisek Samanta</b>, Efrat Shimshoni, Daniel Podolsky, <a href= "https://arxiv.org/abs/2302.04864"> Phonon-induced modification of quantum criticality </a>, Physical Review B <b>106</b>, 035154 (2022) </li>
 
-<li> Prathyush P. Poduval, Abhisek Samanta, Prashant Gupta, Nandini Trivedi, Rajdeep Sensarma, <em>Subgap two-particle spectral weight in disordered s-wave superconductors: Insights from mode coupling approach</em>, <a
-href= "https://arxiv.org/abs/2302.04864"> Physical Review B 106, 064512 (2022) </a></li>
+<li> Prathyush P. Poduval, <b>Abhisek Samanta</b>, Prashant Gupta, Nandini Trivedi, Rajdeep Sensarma, <a
+href= "https://arxiv.org/abs/2302.04864"> Subgap two-particle spectral weight in disordered s-wave superconductors: Insights from mode coupling approach </a>, Physical Review B <b>106</b>, 064512 (2022) </li>
 
 <li> Abhisek Samanta, Ahana Chakraborty and Rajdeep Sensarma, <em>Many-body localized to ergodic transitions in a system with correlated disorder</em>, <a
 href= "https://arxiv.org/abs/2302.04864"> Physical Review B 106, L060201 (Letter) (2022) </a></li>
