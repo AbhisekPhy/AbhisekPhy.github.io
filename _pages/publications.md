@@ -14,7 +14,7 @@ author_profile: true
 
 <li> Noble Gluscevich*, Abhisek Samanta*, Sourav Manna, Bitan Roy, <a href= "https://arxiv.org/abs/2302.04864"> Dynamic mass generation on two-dimensional electronic hyperbolic lattices</a>, arXiv:2302.04864 </li>
 
-<li> Bo Fan, Abhisek Samanta, Antonio M. Garcia-Garcia, <a href= "https://arxiv.org/abs/2302.04864"> Tuning superinductors by quantum coherence effects for enhancing quantum computing</a>, Physical Review Letters <b>130</b>, 047001 (2023) </li>
+<li> Bo Fan, Abhisek Samanta, Antonio M. Garcia-Garcia, <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.047001"> Tuning superinductors by quantum coherence effects for enhancing quantum computing</a>, Physical Review Letters <b>130</b>, 047001 (2023) </li>
 
 <li> Abhisek Samanta, Efrat Shimshoni, Daniel Podolsky, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035154"> Phonon-induced modification of quantum criticality </a>, Physical Review B <b>106</b>, 035154 (2022) </li>
 
