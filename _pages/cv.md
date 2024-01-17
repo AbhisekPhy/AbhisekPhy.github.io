@@ -35,7 +35,7 @@ Technical skills
   * High-temperature series expansion
   * Inhomogeneous Bogoliubov de-Gennes (BdG) mean-field theory, Parton mean-field theory, Large $N$ approximation
 * Numerical
-  * Quantum Monte Carlo (DQMC) and analytic continuation methods
+  * Quantum Monte Carlo (QMC) and analytic continuation methods
   * Efficient Classical Monte Carlo methods (Wolff cluster, Worm algorithm) 
   * Large scale exact diagonalization, Lanczos methods in interactig electron systems and spin systems
 * Computational/coding language
