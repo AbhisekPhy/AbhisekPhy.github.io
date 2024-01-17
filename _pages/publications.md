@@ -18,9 +18,9 @@ author_profile: true
 
 <li> Abhisek Samanta, Efrat Shimshoni, Daniel Podolsky, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035154"> Phonon-induced modification of quantum criticality </a>, Physical Review B <b>106</b>, 035154 (2022) </li>
 
-<li> Prathyush P. Poduval, Abhisek Samanta, Prashant Gupta, Nandini Trivedi, Rajdeep Sensarma, <a href= "https://arxiv.org/abs/2302.04864"> Subgap two-particle spectral weight in disordered s-wave superconductors: Insights from mode coupling approach </a>, Physical Review B <b>106</b>, 064512 (2022) </li>
+<li> Prathyush P. Poduval, Abhisek Samanta, Prashant Gupta, Nandini Trivedi, Rajdeep Sensarma, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.064512"> Subgap two-particle spectral weight in disordered s-wave superconductors: Insights from mode coupling approach </a>, Physical Review B <b>106</b>, 064512 (2022) </li>
 
-<li> Abhisek Samanta, Ahana Chakraborty, Rajdeep Sensarma, <a href= "https://arxiv.org/abs/2302.04864"> Many-body localized to ergodic transitions in a system with correlated disorder</a>, Physical Review B <b>106</b>, L060201 (Letter) (2022) </li>
+<li> Abhisek Samanta, Ahana Chakraborty, Rajdeep Sensarma, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L060201"> Many-body localized to ergodic transitions in a system with correlated disorder</a>, Physical Review B <b>106</b>, L060201 (Letter) (2022) </li>
 
 <li> Bo Fan, Abhisek Samanta, Antonio. M. Garcia-Garcia, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.094515"> Characterization of collective excitations in weakly-coupled disordered superconductors</a>, Physical Review B <b>105</b>, 094515 (2022) </li>
 
