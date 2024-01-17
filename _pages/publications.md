@@ -22,11 +22,11 @@ author_profile: true
 
 <li> Abhisek Samanta, Ahana Chakraborty, Rajdeep Sensarma, <a href= "https://arxiv.org/abs/2302.04864"> Many-body localized to ergodic transitions in a system with correlated disorder</a>, Physical Review B <b>106</b>, L060201 (Letter) (2022) </li>
 
-<li> Bo Fan, Abhisek Samanta, Antonio. M. Garcia-Garcia, <a href= "https://arxiv.org/abs/2302.04864"> Characterization of collective excitations in weakly-coupled disordered superconductors</a>, Physical Review B <b>105</b>, 094515 (2022) </li>
+<li> Bo Fan, Abhisek Samanta, Antonio. M. Garcia-Garcia, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.094515"> Characterization of collective excitations in weakly-coupled disordered superconductors</a>, Physical Review B <b>105</b>, 094515 (2022) </li>
 
-<li> Abhisek Samanta, Anirban Das, Nandini Trivedi, Rajdeep Sensarma, <a href= "https://arxiv.org/abs/2302.04864"> Thermal effects on collective modes in disordered s-wave superconductors</a>, Physical Review B <b>105</b>, 104503 (2022) </li>
+<li> Abhisek Samanta, Anirban Das, Nandini Trivedi, Rajdeep Sensarma, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.104503"> Thermal effects on collective modes in disordered s-wave superconductors</a>, Physical Review B <b>105</b>, 104503 (2022) </li>
 
-<li> Abhisek Samanta, Daniel P. Arovas, Assa Auerbach, <a href= "https://arxiv.org/abs/2302.04864"> Hall coefficient of semimetals</a>, Physical Review Letters <b>126</b>, 076603 (2021) </li>
+<li> Abhisek Samanta, Daniel P. Arovas, Assa Auerbach, <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.076603"> Hall coefficient of semimetals</a>, Physical Review Letters <b>126</b>, 076603 (2021) </li>
 
 <li> Abhisek Samanta, Kedar Damle, Rajdeep Sensarma, <a href= "https://arxiv.org/abs/2302.04864"> Tracking the many-body localized to ergodic transition via extremal statistics of entanglement eigenvalues</a>, Physical Review B <b>102</b>, 104201 (2020) </li>
 
