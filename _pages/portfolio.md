@@ -12,13 +12,7 @@ In our work, we have developed a functional integral formalism and derived an ef
 
 To include thermal and quantm fluctuations exactly (up to all orders), we perform Quantum Monte Carlo simulations of the disordered -$U$ Hubbard model. We study the disorder and temperature evolution of the DOS as a function of energy by using the analytical continuation methods. We show that in presence of temperature, the single-partile gap "fills up", instead of "closing"; this feature is completely non-BCS type, but seen in thin-film superconductor experiments. This is an ongoing work, which I am currently pursuing in collaboration with the experimental group of Bar Ilan University, Israel.
 
-that are the key low-energy collective excitations. The single particle gap remains while the it fills up (instead of closing) with temperature. Using Determinant Quantum Monte Carlo simulations of the disordered -U Hubbard model we study
-
-Using quantum Monte Carlo (QMC) simulations on the disordered fermionic Hubbard model that includes thermal and quantum fluctuations, we provide a detailed description of different phases in these systems, their transition and critical behavior at finite temperature. We show that while the single-particle density of states (DOS) remains gapped across the transition, the low-energy excitations of this system are the dynamical fluctuations of the amplitude (Higgs) and phase (Goldstone mode) of the superconducting order parameter. With increase in temperature, the gap does not close, instead it fills up which is of recent experimental interest conventional superconductors, as well as in cuprates.   
-$a^2 + b^2 = c^2\chi$ --> note that all equations between these tags will not need escaping!
-
-
-Future explorations will include study of unconventional superconductivity, as seen in low-density heterostructure-based SCs, such as , which show promise in candidate materials for quantum computations due to high kinetic inductances.
+My future explorations will include study of unconventional superconductivity, as seen in low-density heterostructure-based SCs, such as the 2DEG developed at the EuO/KTO interface, which show promise for future generation applications, such as in superconducting qubits, memory Storage, etc., due to their high Kinetic Inductances.
 
 ## Transport and thermopower properties of semimetals and interacting systems
 ![](/images/Hall.jpg){: style="width: 500px; float: right; border: 10px"}
