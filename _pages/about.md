@@ -17,9 +17,9 @@ My research spans a broad area of condensed matter physics, employing a wide ran
 In addition to addressing purely theoretical questions, I enjoy collaborating with experimentalists to connect theory with real-world observations.
 
 Some of the specific topics of my research are:
-*Superconductivity in thin-films and nanowires: Role of disorder and fluctuations
-*Quantum transport theory: Calculation of Hall, thermopower, Nernst coefficients
-*Quantum Hall Effects
+* Superconductivity in thin-films and nanowires: Role of disorder and fluctuations
+* Quantum transport theory: Calculation of Hall, thermopower, Nernst coefficients
+* Quantum Hall Effects
 * Entanglement, thermalization and Many-body localization (MBL)
 * Quantum oscillations in Kondo insulators
 * Sachdev-Ye-Kitaev (SYK) model and Large-N theories
