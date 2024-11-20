@@ -20,10 +20,10 @@ In addition to addressing purely theoretical questions, I enjoy collaborating wi
 <p>I will display &#x25BA;</p>
 
 Some of the specific topics of my research are:
-* Superconductivity in thin-films and nanowires: Role of disorder and fluctuations [<  ] 
-* Quantum transport theory: Calculation of Hall, thermopower, Nernst coefficients [<  ]
-* Quantum Hall Effects [<  ]
-* Entanglement, thermalization and Many-body localization (MBL) [<  ]
+- Superconductivity in thin-films and nanowires: Role of disorder and fluctuations 
+- Quantum transport theory: Calculation of Hall, thermopower, Nernst coefficients
+- Quantum Hall Effects
+- Entanglement, thermalization and Many-body localization (MBL)
 * Quantum oscillations in Kondo insulators  
 * Sachdev-Ye-Kitaev (SYK) model and Large-N theories  
 * Quantum criticality in compressible lattice; Renormalization Group (RG) analysis
