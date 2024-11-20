@@ -27,8 +27,7 @@ Work experience
   * Department of Physics, The Ohio State University, Columbus (OH), USA 
   * Supervisors: Prof. Mohit Randeia and Prof. Nandini Trivedi
   
-
-======
+---
 
 **Technical Skills**
 
