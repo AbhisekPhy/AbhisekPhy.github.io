@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Hi, I'm Abhisek,"
 excerpt: "About me"
