@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-welcome to my webpage! I am a theoretical physicist, currently working at The Ohio State University.
+Welcome to my webpage! I am a theoretical physicist, currently working at The Ohio State University.
 
 My research interests lie in Condensed Matter Physics, with a focus on strongly correlated quantum many-body systems. When a large number of quantum particles come together and interact, their collective behavior gives rise to various emergent phases, such as magnetic, insulating, topological or even novel superconducting phases. These phenomena form the foundation of quantum materials, with applications ranging from high-temperature superconductors to the design of quantum devices and technologies for quantum information.
 
