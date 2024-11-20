@@ -25,4 +25,4 @@ Some of the specific topics of my research are:
 - Sachdev-Ye-Kitaev (SYK) model and Large-N theories  
 - Quantum criticality in compressible lattice; Renormalization Group (RG) analysis
 
-Please visit my research page and if you are interested in working with me, feel free to contact me!
+Please visit my research page for more details about my research. If you are interested in working with me, feel free to contact me!
