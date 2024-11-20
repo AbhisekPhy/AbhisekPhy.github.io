@@ -27,8 +27,11 @@ Work experience
   * Department of Physics, The Ohio State University, Columbus (OH), USA 
   * Supervisors: Prof. Mohit Randeia and Prof. Nandini Trivedi
   
-Technical skills
+
 ======
+
+**Technical Skills**
+
 * Analytical
   * Functional integral formalism, Bosonic fluctuation theory
   * Renormalization Group (RG) analysis and $\epsilon$ expansion
