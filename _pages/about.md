@@ -17,8 +17,7 @@ My research spans a broad area of condensed matter physics, employing a wide ran
 
 In addition to addressing purely theoretical questions, I enjoy collaborating with experimentalists to connect theory with real-world observations.
 
-## Research Topics:
-Some of the specific topics of my research are:
+## Specific Research Topics:
 
 * Superconductivity in thin-films and nanowires: Role of disorder and fluctuations
 * Quantum transport theory: Calculation of Hall, thermopower, Nernst coefficients
