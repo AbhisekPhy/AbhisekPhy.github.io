@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-<ol> <li> Sayantan Roy, <b>Abhisek Samanta</b>, Nandini Trivedi, <em>Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model</em>, arXiv:2407.01680; <a href="https://arxiv.org/abs/2407.01680"> Link </a> </li>
+<ol> <li> Sayantan Roy, <b>A. Samanta</b>, Nandini Trivedi, <em>Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model</em>, arXiv:2407.01680; <a href="https://arxiv.org/abs/2407.01680"> Link </a> </li>
                                                 
-<li> The two critical temperatures conundrum in La$_{1.83}$Sr$_{0.17}$CuO$_4$; <b>Abhisek Samanta</b>, Itay Mangel, Amit Keren, Daniel P. Arovas, Assa Auerbach, SciPost Physics <b>16</b>, 148 (2024); <a href="https://scipost.org/SciPostPhys.16.6.148"> Link </a>  </li>
+<li> The two critical temperatures conundrum in La$_{1.83}$Sr$_{0.17}$CuO$_4$; <b>A. Samanta</b>, Itay Mangel, Amit Keren, Daniel P. Arovas, Assa Auerbach, SciPost Physics <b>16</b>, 148 (2024); <a href="https://scipost.org/SciPostPhys.16.6.148"> Link </a>  </li>
 
-<li> Willdauany C. de Freitas Silva, Maykon V. M. Araujo, Sayantan Roy, <b>Abhisek Samanta</b>, Natanael de C. Costa, Nandini Trivedi, Thereza Paiva, <em>Effects of strong electronic interactions on the thermopower properties of the repulsive Hubbard model</em>, Physical Review B <b>108</b>, 075101 (2023); <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.075101"> Link </a> </li>
+<li> Willdauany C. de Freitas Silva, Maykon V. M. Araujo, Sayantan Roy, <b>A. Samanta</b>, Natanael de C. Costa, Nandini Trivedi, Thereza Paiva, <em>Effects of strong electronic interactions on the thermopower properties of the repulsive Hubbard model</em>, Physical Review B <b>108</b>, 075101 (2023); <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.075101"> Link </a> </li>
 
-<li> Ilia Khait, Sauri Bhattacharyya, Abhisek Samanta, Assa Auerbach, <a href= "https://www.nature.com/articles/s41535-023-00611-5"> Hall anomalies of the doped Mott insulator</a>, NPJ Quantum Materials <b>8</b>, 75 (2023) </li>
+<li> Ilia Khait, Sauri Bhattacharyya, <b>A. Samanta</b>, Assa Auerbach, <em> Hall anomalies of the doped Mott insulator </em>, NPJ Quantum Materials <b>8</b>, 75 (2023); <a href= "https://www.nature.com/articles/s41535-023-00611-5"> Link</a> </li>
 
 <li> Noble Gluscevich*, Abhisek Samanta*, Sourav Manna, Bitan Roy, <a href= "https://arxiv.org/abs/2302.04864"> Dynamic mass generation on two-dimensional electronic hyperbolic lattices</a>, arXiv:2302.04864 </li>
 
