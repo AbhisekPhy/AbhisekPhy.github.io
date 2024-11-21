@@ -9,7 +9,7 @@ author_profile: true
                                                 
 <li> <b>A. Samanta</b>, Itay Mangel, Amit Keren, Daniel P. Arovas, Assa Auerbach, <em>The two critical temperatures conundrum in La$_{1.83}$Sr$_{0.17}$CuO$_4$ </em>, SciPost Physics <b>16</b>, 148 (2024); <a href="https://scipost.org/SciPostPhys.16.6.148"> Link </a>  </li>
 
-<li> W. C. de Freitas Silva, M. V. M. Araujo, S. Roy, <b>A. Samanta</b>, N. de C. Costa, N. Trivedi, T. Paiva, <em>Effects of strong electronic interactions on the thermopower properties of the repulsive Hubbard model</em>, Physical Review B <b>108</b>, 075101 (2023); <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.075101"> Link </a> </li>
+<li> W. Silva, M. Araujo, S. Roy, <b>A. Samanta</b>, N. Costa, N. Trivedi, T. Paiva, <em>Effects of strong electronic interactions on the thermopower properties of the repulsive Hubbard model</em>, Physical Review B <b>108</b>, 075101 (2023); <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.075101"> Link </a> </li>
 
 <li> Ilia Khait, Sauri Bhattacharyya*, <b>A. Samanta</b>*, Assa Auerbach, <em> Hall anomalies of the doped Mott insulator </em>, NPJ Quantum Materials <b>8</b>, 75 (2023); <a href= "https://www.nature.com/articles/s41535-023-00611-5"> Link </a> </li>
 
@@ -25,11 +25,11 @@ author_profile: true
 
 <li> Bo Fan, <b>A. Samanta</b>, Antonio. M. Garcia-Garcia, <em>Characterization of collective excitations in weakly-coupled disordered superconductors</em>, Physical Review B <b>105</b>, 094515 (2022); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.094515"> Link </a> </li>
 
-<li> Abhisek Samanta, Anirban Das, Nandini Trivedi, Rajdeep Sensarma, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.104503"> Thermal effects on collective modes in disordered s-wave superconductors</a>, Physical Review B <b>105</b>, 104503 (2022) </li>
+<li> <b>A. Samanta</b>, Anirban Das, Nandini Trivedi, Rajdeep Sensarma, <em>Thermal effects on collective modes in disordered s-wave superconductors</em>, Physical Review B <b>105</b>, 104503 (2022); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.104503"> Link </a> </li>
 
-<li> Abhisek Samanta, Daniel P. Arovas, Assa Auerbach, <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.076603"> Hall coefficient of semimetals</a>, Physical Review Letters <b>126</b>, 076603 (2021) </li>
+<li> <b>A. Samanta</b>, Daniel P. Arovas, Assa Auerbach, <em>Hall coefficient of semimetals</em>, Physical Review Letters <b>126</b>, 076603 (2021); <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.076603"> Link <a> </li>
 
-<li> Abhisek Samanta, Kedar Damle, Rajdeep Sensarma, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Tracking the many-body localized to ergodic transition via extremal statistics of entanglement eigenvalues</a>, Physical Review B <b>102</b>, 104201 (2020) </li>
+<li> <b>A. Samanta</b>, Kedar Damle, Rajdeep Sensarma, <em>Tracking the many-body localized to ergodic transition via extremal statistics of entanglement eigenvalues</em>, Physical Review B <b>102</b>, 104201 (2020); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Link </a> </li>
 
 <li> Abhisek Samanta, Amulya Ratnakar, Nandini Trivedi and Rajdeep Sensarma, <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.024507"> Two-particle spectral function for disordered $s$-wave superconductors: local maps and collective modes </a>, Physical Review B <b>101</b>, 024507 (2020) </li>
 
