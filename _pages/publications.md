@@ -28,7 +28,7 @@ author_profile: true
 
 <li> <b>A. Samanta</b>, Anirban Das, Nandini Trivedi, Rajdeep Sensarma, <em>Thermal effects on collective modes in disordered s-wave superconductors</em>, Physical Review B <b>105</b>, 104503 (2022); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.104503"> Link </a> </li>
 
-<li> <b>A. Samanta</b>, Daniel P. Arovas, Assa Auerbach, <em>Hall coefficient of semimetals</em>, Physical Review Letters <b>126</b>, 076603 (2021); <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.076603"> Link <a> </li>
+<li> <b>A. Samanta</b>, Daniel P. Arovas, Assa Auerbach, <em>Hall coefficient of semimetals</em>, Physical Review Letters <b>126</b>, 076603 (2021); <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.076603"> Link </a> </li>
 
 <li> <b>A. Samanta</b>, Kedar Damle, Rajdeep Sensarma, <em>Tracking the many-body localized to ergodic transition via extremal statistics of entanglement eigenvalues</em>, Physical Review B <b>102</b>, 104201 (2020); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Link </a> </li>
 
