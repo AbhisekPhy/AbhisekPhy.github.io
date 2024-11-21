@@ -36,7 +36,7 @@ author_profile: true
 
 <li> B. Datta, H. Agarwal, <b>A. Samanta</b>, A. Ratnakar, K. Watanabe, T. Taniguchi, Rajdeep Sensarma, Mandar M. Deshmukh, <em> Landau level diagram and the continuous rotational symmetry breaking in trilayer graphene</em>, Physical Review Letters <b>121</b>, 056801 (2018); <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.056801"> Link</a> </li>
 
-<li> B. Datta, S. Dey, <b>A. Samanta</b>, A. Borah, K. Watanabe, T. Taniguchi, Rajdeep Sensarma, Mandar M. Deshmukh, <em>Strong electronic interaction and multiple quantum Hall ferromagnetic phases in trilayer graphene</em>, Nature Communications <b>8</b>, 14518 (2017); <a href= "https://www.nature.com/articles/ncomms14518"> </a> </li>
+<li> B. Datta, S. Dey, <b>A. Samanta</b>, A. Borah, K. Watanabe, T. Taniguchi, Rajdeep Sensarma, Mandar M. Deshmukh, <em>Strong electronic interaction and multiple quantum Hall ferromagnetic phases in trilayer graphene</em>, Nature Communications <b>8</b>, 14518 (2017); <a href= "https://www.nature.com/articles/ncomms14518"> Link </a> </li>
 
 <li> <b>A. Samanta</b>, Rajdeep Sensarma, <em>Superconductivity from doublon condensation in the ionic Hubbard model</em>, Physical Review B <b>94</b>, 224517 (2016); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.224517"> Link </a> </li>
 
