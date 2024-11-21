@@ -11,9 +11,9 @@ author_profile: true
 
 <li> Willdauany C. de Freitas Silva, Maykon V. M. Araujo, Sayantan Roy, <b>A. Samanta</b>, Natanael de C. Costa, Nandini Trivedi, Thereza Paiva, <em>Effects of strong electronic interactions on the thermopower properties of the repulsive Hubbard model</em>, Physical Review B <b>108</b>, 075101 (2023); <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.075101"> Link </a> </li>
 
-<li> Ilia Khait, Sauri Bhattacharyya, <b>A. Samanta</b>, Assa Auerbach, <em> Hall anomalies of the doped Mott insulator </em>, NPJ Quantum Materials <b>8</b>, 75 (2023); <a href= "https://www.nature.com/articles/s41535-023-00611-5"> Link</a> </li>
+<li> Ilia Khait, Sauri Bhattacharyya*, <b>A. Samanta</b>*, Assa Auerbach, <em> Hall anomalies of the doped Mott insulator </em>, NPJ Quantum Materials <b>8</b>, 75 (2023); <a href= "https://www.nature.com/articles/s41535-023-00611-5"> Link</a> </li>
 
-<li> Noble Gluscevich*, <b>A. Samanta*</b>, Sourav Manna, Bitan Roy, Dynamic mass generation on two-dimensional electronic hyperbolic lattices, arXiv:2302.04864; <a href= "https://arxiv.org/abs/2302.04864"> Link </a> </li>
+<li> Noble Gluscevich*, <b>A. Samanta</b>*, Sourav Manna, Bitan Roy, Dynamic mass generation on two-dimensional electronic hyperbolic lattices, arXiv:2302.04864; <a href= "https://arxiv.org/abs/2302.04864"> Link </a> </li>
 
 <li> Bo Fan, Abhisek Samanta, Antonio M. Garcia-Garcia, <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.047001"> Tuning superinductors by quantum coherence effects for enhancing quantum computing</a>, Physical Review Letters <b>130</b>, 047001 (2023) </li>
 
