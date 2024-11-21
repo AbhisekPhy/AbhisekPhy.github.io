@@ -17,7 +17,7 @@ My research spans a broad area of condensed matter physics, employing a wide ran
 
 In addition to addressing purely theoretical questions, I enjoy collaborating with experimentalists to connect theory with real-world observations.
 
-<tbody> hjhgjkgkjbkjnk </tbody>
+<sub><sup>combining the two tags</sup></sub>
 
 ---
 
