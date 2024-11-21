@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<ol> <li> Sayantan Roy, Abhisek Samanta, Nandini Trivedi, <a href="https:////arxiv.org/abs/2407.01680> Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model</a>, arXiv:2407.01680
+<ol> <li> Sayantan Roy, Abhisek Samanta, Nandini Trivedi, <a href="https:////arxiv.org/abs/2407.01680> Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model</a>, arXiv:2407.01680 </li>
                                                 
 <ol> <li> Abhisek Samanta, Itay Mangel, Amit Keren, Daniel P. Arovas, Assa Auerbach, <a href="https://arxiv.org/abs/2308.15540"> The two critical temperatures conundrum in La$_{1.83}$Sr$_{0.17}$CuO$_4$</a>, SciPost Physics 16, 148 (2024) </li>
 
