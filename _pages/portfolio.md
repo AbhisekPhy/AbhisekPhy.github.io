@@ -17,7 +17,7 @@ In our work, we have developed a field-theoretical formalism for disordered supe
 
 To account for fluctuations of all orders, both quantum and thermal, we perform Quantum Monte Carlo (QMC) simulations with numerical analytic continuation and investigate the evolution of the density of states (DOS) and optical conductivity as a function of disorder and temperature. We demonstrate that the superconducting gap "fills up" with increasing temperature rather than "closing" -- a behavior that is entirely non-BCS-like but is observed in thin-film superconductor experiments! In the optical conductivity, sub-gap states emerge due to fluctuations, acting as a source of dissipation in superconducting nanowires.
 
-My current research focuses on low-density unconventional superconductivity in heterostructure materials (e.g. EuO/KTO interface), which hold promise for future generation applications, such as superconducting qubits, memory Storage and single photon detectors.
+My current research focuses on low-density unconventional superconductivity in heterostructure materials (e.g. EuO/KTO interface), which hold promise for future generation applications, such as superconducting qubits, memory storage and single photon detectors.
 
 ## Transport and thermopower properties of semimetals and interacting systems
 ![](/images/Hall.jpg){: style="width: 500px; align: centre; border: 10px"}
