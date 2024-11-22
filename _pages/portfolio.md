@@ -8,7 +8,7 @@ author_profile: true
 ## Disordered superconductors and their collective modes (Higgs, Goldstone)
 
 <div>
-<img src="/images/FigSC.jpg" alt="forecasting broccoli" class="responsivepost">
+<img src="/images/FigSC.jpg" style="width:500px;height:600px;">
 </div>
 
 
