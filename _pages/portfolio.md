@@ -7,7 +7,6 @@ author_profile: true
 
 ## Disordered superconductors and their collective modes (Higgs, Goldstone)
 
-<div>
 <p align="center">
     <img width="600" src="/images/FigSC.jpg" alt="Material Bread logo">
 </p>
