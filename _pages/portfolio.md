@@ -17,7 +17,7 @@ In our work, we have developed a field-theoretical formalism for disordered supe
 
 To include fluctuations (both quantum and thermal) of all orders, we perform Quantum Monte Carlo simulations with numerical analytic continuation, and study the disorder and temperature evolution of the DOS. We show that the superconducting gap "fills up" with temperature, instead of "closing"; this feature is completely non-BCS type, but exactly seen in thin-film superconductor experiments!
 
-My current research focusues on the study of unconventional superconductivity, as seen in low-density heterostructure-based superconductors, such as the EuO/KTO interface, which show promise for future generation applications, such as in superconducting qubits, memory Storage, etc., due to their high Kinetic Inductances.
+My current research focusues on the study of unconventional low-density superconductivity in heterostructure materials (e.g. EuO/KTO interface), which show promise for future generation applications, such as in superconducting qubits, memory Storage, and single photon detectors.
 
 ## Transport and thermopower properties of semimetals and interacting systems
 ![](/images/Hall.jpg){: style="width: 500px; align: centre; border: 10px"}
