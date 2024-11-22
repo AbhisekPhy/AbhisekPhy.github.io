@@ -7,7 +7,10 @@ author_profile: true
 
 ## Disordered superconductors and their collective modes (Higgs, Goldstone)
 
-<img src="/images/FigSC.jpg" alt="Girl in a jacket" width="900" height="200">
+<div>
+<img src="/images/FigSC.jpg" alt="forecasting broccoli" class="responsivepost">
+</div>
+
 Superconductivity is characterized by a complex wave-function (with both amplitude and phase), which represents the coherent state of the Cooper pairs. In presence of strong disorder, superconductivity can be destroyed due to strong phase fluctuations of the Cooper pairs, even when their amplitude remains finite! This leads to a quantum phase transition at zero temperature, called superconductor-insulator transition (SIT). The physics of SIT is "qualitatively" described by inhomogeneous Bogoliubov-de Gennes (BdG) mean-field theory of the attractive Hubbard model -- this shows the formation of superconducting "puddles" with lack of phase coherence. However, the BdG theory misses the fluctuations completely!
 
 In our work, we have developed a field-theoretical formalism for disordered superconductors, based on functional integral and effective action, and added gaussian fluctuations around the BdG saddle point. Our formalism can study the evolution of the amplitude (Higgs) and the phase (Goldstone) modes separately with disorder. We show that while the Higgs mode in a clean superconductor is gapped (by 2$\Delta$; $\Delta$ being the superconducting gap), disorder pushes it down to form a sub-gap mode. This “disorder-induced Higgs mode” is spectrally separated from the low-energy Goldstone mode and can be observed in energy-resolved spectroscopies.
