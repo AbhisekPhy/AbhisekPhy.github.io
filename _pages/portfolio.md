@@ -8,8 +8,9 @@ author_profile: true
 ## Disordered superconductors and their collective modes (Higgs, Goldstone)
 
 <div>
-<img src="/images/FigSC.jpg" style="width:500px;height:600px;">
-</div>
+<p align="center">
+    <img width="200" src="/images/FigSC.jpg" alt="Material Bread logo">
+</p>
 
 Superconductivity is characterized by a complex wave-function (with both amplitude and phase), which represents the coherent state of the Cooper pairs. In presence of strong disorder, superconductivity can be destroyed due to strong phase fluctuations of the Cooper pairs, even when their amplitude remains finite! This leads to a quantum phase transition at zero temperature, called superconductor-insulator transition (SIT). The physics of SIT is "qualitatively" described by inhomogeneous Bogoliubov-de Gennes (BdG) mean-field theory of the attractive Hubbard model -- this shows the formation of superconducting "puddles" with lack of phase coherence. However, the BdG theory misses the fluctuations completely!
 
