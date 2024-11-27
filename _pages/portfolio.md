@@ -36,7 +36,7 @@ Using our new measures, we also studied the MBL-ergodic transition in presence o
 
 ## Superconductivity in ionic Hubbard model (IHM)
 
-<p align="center">
+<p align="right">
     <img width="400" src="/images/FigIHM.jpg" alt="Material Bread logo">
 </p>
 
