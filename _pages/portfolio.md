@@ -47,6 +47,18 @@ In presence of strong interactions, our formalism can calculate $R_H$ over a lar
 
 ---
 
+## Modification of quantum criticality due to lattice vibrations
+![](/images/FigON.jpg){: style="width: 450px; float: right; border: 10px"} The transition between ordered and disordered phases in magnets, superfluids, charge density waves, etc., are typically studied within "static" lattice models. However, acoustic phonons are ubiquitous in realistic solid state systems, and their gapless nature can fundamentally change the standard critical behavior. Therefore, the fate of the second-order quantum phase transition in the presence of lattice vibrations is an intriguing question. 
+
+In our work, we have developed a renormalization group (RG) analysis near (3+1) space-time dimensions and derive the RG equations using an $\epsilon$ expansion. Our results indicate that when the number of flavors of the underlying O($N$) model exceeds a critical number $N_c=4$, the quantum transition remains second-order of the Wilson-Fisher type; while for $N\le4$, it turns to weakly first-order. We have characterized this weakly first-order transition by a length scale $\xi^*$, below which the transition changes from second-order to first-order. We are currently in the process of verifying these analytical predictions numerically, using a hybrid Monte Carlo simulation (Wolff-cluster + Metropolis) of O($N$) models coupled to gapless phonons.
+
+<b> Selected Refs: </b>
+<ol>
+<li> <b>A. Samanta</b>, Efrat Shimshoni, Daniel Podolsky, <em>Phonon-induced modification of quantum criticality </em>, Physical Review B <b>106</b>, 035154 (2022); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035154"> Link </a> </li>
+</ol>
+
+---
+
 ## Superconductivity in ionic Hubbard model (IHM)
 
 ![](/images/FigIHM.jpg){: style="width: 350px; float: right; border: 10px"} The ionic Hubbard model (IHM) is defined on a bipartite lattice, where, in addition to the kinetic energy ($t$) and the local Hubbard repulsion ($U$) terms, the fermions also feel a constant potential difference between the two sublattices (ionic potential $V$). While large $U$ (Mott insulator) and large $V$ (band insulator) by themselves promote insulating behavior, they compete with each other leading to charge fluctuations when $U\sim V$. However, the model is challenging to solve in this limit where most of the conventional methods fail. In our work, we use a strong-coupling expansion (Schrieffer-Wolff transformation) and derive an effective low-energy dimer-dipole Hamiltonian in the limit $U\sim V\gg t$. Further, we employ a slave-boson (parton) mean-field theory in presence of both double occupancy (doublons) and holes (holons). We show the appearance of a novel superconducting phase with $T_c\sim t$ due to the condensation of the doublon-holon pairs – this phase can be detected in ultra-cold atom experiments.
@@ -70,16 +82,7 @@ Using our new measures, we can also study the MBL-ergodic transition in presence
 <li> <b>A. Samanta</b>, Ahana Chakraborty, Rajdeep Sensarma, <em>Many-body localized to ergodic transitions in a system with correlated disorder</em>, Physical Review B <b>106</b>, L060201 (Letter) (2022); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L060201"> Link</a> </li>
 </ol>
 
-
-## Modification of quantum criticality due to lattice vibrations
-![](/images/FigON.jpg){: style="width: 450px; float: right; border: 10px"} The transition between ordered and disordered phases in magnets, superfluids, charge density waves, etc., are typically studied within "static" lattice models. However, acoustic phonons are ubiquitous in realistic solid state systems, and their gapless nature can fundamentally change the standard critical behavior. Therefore, the fate of the second-order quantum phase transition in the presence of lattice vibrations is an intriguing question. 
-
-In our work, we have developed a renormalization group (RG) analysis near (3+1) space-time dimensions and derive the RG equations using an $\epsilon$ expansion. Our results indicate that when the number of flavors of the underlying O($N$) model exceeds a critical number $N_c=4$, the quantum transition remains second-order of the Wilson-Fisher type; while for $N\le4$, it turns to weakly first-order. We have characterized this weakly first-order transition by a length scale $\xi^*$, below which the transition changes from second-order to first-order. We are currently in the process of verifying these analytical predictions numerically, using a hybrid Monte Carlo simulation (Wolff-cluster + Metropolis) of O($N$) models coupled to gapless phonons.
-
-<b> Selected Refs: </b>
-<ol>
-<li> <b>A. Samanta</b>, Efrat Shimshoni, Daniel Podolsky, <em>Phonon-induced modification of quantum criticality </em>, Physical Review B <b>106</b>, 035154 (2022); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035154"> Link </a> </li>
-</ol>
+---
 
 ## Role of electronic interactions on the Quantum Hall Effects in tri-layer graphene
 ![](/images/FigQHE.jpg){: style="width: 450px; float: right; border: 10px"} In ABA-stacked trilayer graphene (TLG), hybridization between monolayer (ML)-like and bilayer (BL)-like Landau levels (LLs) leads to a very complex pattern of level crossings and splittings. We have developed a self-consistent Hartree-Fock theory which takes into account the important role of electronic interaction between ML and BL-like LLs and explains the presence of quantum Hall ferromagnetic (QHF) states in experiments. This leads to an enhancement of LL gaps (or the effective electronic g-factor). In addition, our theory also theoretically explains the observed broken-symmetry states in TLG in presence of both electric and magnetic fields. Our analysis can accurately determine the band parameters of TLG by a multi-parameter fitting between experimental and theoretical data.
