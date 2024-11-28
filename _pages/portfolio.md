@@ -18,7 +18,10 @@ In our work, we have developed a field-theoretical formalism for disordered supe
 My current research focuses on low-density unconventional superconductivity in heterostructure materials (e.g. EuO/KTO interface), which hold promise for future generation applications, such as superconducting qubits, memory storage and single photon detectors.
 
 <small>
-gfkuhgjbkjbjhvjh
+<b> Selected references: </b>
+** asbjbk
+** bjhbkb
+
 </small>
 
 ## Transport and thermopower properties of semimetals and interacting systems
