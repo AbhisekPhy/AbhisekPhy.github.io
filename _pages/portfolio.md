@@ -51,6 +51,15 @@ In presence of strong interactions, our formalism can calculate $R_H$ over a lar
 
 ![](/images/FigIHM.jpg){: style="width: 350px; float: right; border: 10px"} The ionic Hubbard model (IHM) is defined on a bipartite lattice, where, in addition to the kinetic energy ($t$) and the local Hubbard repulsion ($U$) terms, the fermions also feel a constant potential difference between the two sublattices (ionic potential $V$). While large $U$ (Mott insulator) and large $V$ (band insulator) by themselves promote insulating behavior, they compete with each other leading to charge fluctuations when $U\sim V$. However, the model is challenging to solve in this limit where most of the conventional methods fail. In our work, we use a strong-coupling expansion (Schrieffer-Wolff transformation) and derive an effective low-energy dimer-dipole Hamiltonian in the limit $U\sim V\gg t$. Further, we employ a slave-boson (parton) mean-field theory in presence of both double occupancy (doublons) and holes (holons). We show the appearance of a novel superconducting phase with $T_c\sim t$ due to the condensation of the doublon-holon pairs – this phase can be detected in ultra-cold atom experiments.
 
+<b> Selected Refs: </b>
+<ol>
+<li> <b>A. Samanta</b>, Amulya Ratnakar, Nandini Trivedi and Rajdeep Sensarma, <em>Two-particle spectral function for disordered $s$-wave superconductors: local maps and collective modes</em>, Physical Review B <b>101</b>, 024507 (2020); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.024507"> Link</a> </li>
+
+<li> Bo Fan, <b>A Samanta</b>, Antonio M. Garcia-Garcia, <em>Tuning superinductors by quantum coherence effects for enhancing quantum computing</em>, Physical Review Letters <b>130</b>, 047001 (2023); <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.047001"> Link</a> </li>
+
+<li> <b>A. Samanta</b>, Itay Mangel, Amit Keren, Daniel P. Arovas, Assa Auerbach, <em>The two critical temperatures conundrum in La$_{1.83}$Sr$_{0.17}$CuO$_4$</em>, SciPost Physics <b>16</b>, 148 (2024); <a href="https://scipost.org/SciPostPhys.16.6.148"> Link </a>  </li>
+</ol>
+
 ---
 
 ## Effect of interactions on the Quantum Oscillations (QO) in Kondo insulator
