@@ -86,7 +86,10 @@ In ABA-stacked trilayer graphene (TLG), hybridization between monolayer (ML)-lik
 
 <b> Selected Refs: </b>
 <ol>
-<li> <b>A. Samanta</b>, Efrat Shimshoni, Daniel Podolsky, <em>Phonon-induced modification of quantum criticality </em>, Physical Review B <b>106</b>, 035154 (2022); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035154"> Link </a> </li>
+<li> B. Datta, H. Agarwal, <b>A. Samanta</b>, A. Ratnakar, K. Watanabe, T. Taniguchi, Rajdeep Sensarma, Mandar M. Deshmukh, <em> Landau level diagram and the continuous rotational symmetry breaking in trilayer graphene</em>, Physical Review Letters <b>121</b>, 056801 (2018); <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.056801"> Link</a> </li>
+
+<li> B. Datta, S. Dey, <b>A. Samanta</b>, A. Borah, K. Watanabe, T. Taniguchi, Rajdeep Sensarma, Mandar M. Deshmukh, <em>Strong electronic interaction and multiple quantum Hall ferromagnetic phases in trilayer graphene</em>, Nature Communications <b>8</b>, 14518 (2017); <a href= "https://www.nature.com/articles/ncomms14518"> Link </a> </li>
+
 </ol>
 
 ## Effect of interactions on the Quantum Oscillations (QO) in Kondo insulator
