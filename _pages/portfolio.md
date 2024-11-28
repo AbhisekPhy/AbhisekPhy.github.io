@@ -26,6 +26,7 @@ My current research focuses on low-density unconventional superconductivity in h
 <li> <b>A. Samanta</b>, Itay Mangel, Amit Keren, Daniel P. Arovas, Assa Auerbach, <em>The two critical temperatures conundrum in La$_{1.83}$Sr$_{0.17}$CuO$_4$</em>, SciPost Physics <b>16</b>, 148 (2024); <a href="https://scipost.org/SciPostPhys.16.6.148"> Link </a>  </li>
 </ol>
 
+---
 ## Transport and thermopower properties of semimetals and interacting systems
 
 <p align="center">
