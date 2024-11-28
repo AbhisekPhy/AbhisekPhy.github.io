@@ -20,7 +20,7 @@ My current research focuses on low-density unconventional superconductivity in h
 ## Transport and thermopower properties of semimetals and interacting systems
 
 <p align="center">
-    <img width="600" src="/images/FigHall.jpg" alt="Material Bread logo">
+    <img width="650" src="/images/FigHall.jpg" alt="Material Bread logo">
 </p>
 
 The Hall coefficient ($R_H$) has been traditionally used to measure the charge carrier density in transport measurements, via the Drude relation $R_H\sim \frac{1}{n}$. However, this relation may break down in semimetals due to the presence of multiple bands and intriguing Fermi surface topology. Multiband conductivity calculations involve coupled Boltzmann equations with interband collision integrals which are quite challenging. We can avoid this difficulty by using a new formalism [Auerbach et al] which expresses Hall coefficient only in terms of thermodynamic susceptibilities. We calculated the deviation of $R_H$ from the Drude relation in spin-split semiconductor bands, as well as Weyl and nodal-line semimetals [<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Samanta et al</a>]. We proposed experiments to measure these deviations.
