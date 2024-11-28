@@ -76,7 +76,7 @@ Using our new measures, we can also study the MBL-ergodic transition in presence
 
 <b> Selected Refs: </b>
 <ol>
-
+<li> <b>A. Samanta</b>, Efrat Shimshoni, Daniel Podolsky, <em>Phonon-induced modification of quantum criticality </em>, Physical Review B <b>106</b>, 035154 (2022); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035154"> Link </a> </li>
 </ol>
 
 
