@@ -95,7 +95,6 @@ Using our new measures, we can also study the MBL-ergodic transition in presence
 
 </ol>
 
-
 {% include base_path %}
 
 
