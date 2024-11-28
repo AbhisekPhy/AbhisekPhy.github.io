@@ -82,7 +82,7 @@ In our work, we have developed a renormalization group (RG) analysis near (3+1) 
 </ol>
 
 ## Role of electronic interactions on the Quantum Hall Effects in tri-layer graphene
-In ABA-stacked trilayer graphene (TLG), hybridization between monolayer (ML)-like and bilayer (BL)-like Landau levels (LLs) leads to a very complex pattern of level crossings and splittings. We have developed a self-consistent Hartree-Fock theory which takes into account the important role of electronic interaction between ML and BL-like LLs and explains the presence of quantum Hall ferromagnetic (QHF) states in experiments. This leads to an enhancement of LL gaps (or the effective electronic g-factor). In addition, our theory also theoretically explains the observed broken-symmetry states in TLG in presence of both electric and magnetic fields. Our analysis can accurately determine the band parameters of TLG by a multi-parameter fitting between experimental and theoretical data.
+![](/images/FigQHE.jpg){: style="width: 450px; float: right; border: 10px"} In ABA-stacked trilayer graphene (TLG), hybridization between monolayer (ML)-like and bilayer (BL)-like Landau levels (LLs) leads to a very complex pattern of level crossings and splittings. We have developed a self-consistent Hartree-Fock theory which takes into account the important role of electronic interaction between ML and BL-like LLs and explains the presence of quantum Hall ferromagnetic (QHF) states in experiments. This leads to an enhancement of LL gaps (or the effective electronic g-factor). In addition, our theory also theoretically explains the observed broken-symmetry states in TLG in presence of both electric and magnetic fields. Our analysis can accurately determine the band parameters of TLG by a multi-parameter fitting between experimental and theoretical data.
 
 <b> Selected Refs: </b>
 <ol>
@@ -91,15 +91,6 @@ In ABA-stacked trilayer graphene (TLG), hybridization between monolayer (ML)-lik
 <li> B. Datta, S. Dey, <b>A. Samanta</b>, A. Borah, K. Watanabe, T. Taniguchi, Rajdeep Sensarma, Mandar M. Deshmukh, <em>Strong electronic interaction and multiple quantum Hall ferromagnetic phases in trilayer graphene</em>, Nature Communications <b>8</b>, 14518 (2017); <a href= "https://www.nature.com/articles/ncomms14518"> Link </a> </li>
 
 </ol>
-
-## Effect of interactions on the Quantum Oscillations (QO) in Kondo insulator
-Kondo insulators, such as SmB6 or YbB$x_{12}$, are found to exhibit quantum oscillations in density of states (Shubnikov deHass/SdH) and magnetization (deHass van Alphen/dHvA), even in absence of a Fermi surface. Recently, it has been shown [Panda et al] in a mean-field approach (Hybridization-gap insulators) that SdH and dHvA oscillations in such systems show different frequencies and different field and temperature-dependent amplitudes, in marked contrast with metals. Kondo insulators are, how- ever, strongly correlated systems where interaction effects cannot be a priori ignored. We generalize the periodic Anderson model with Sachdev-Ye-Kitaev (SYK)-like interactions, where the large-N limit allows us to control the calculation. We study the fate of quantum oscillations in Kondo insulators in this solvable limit. We find that the QO frequencies are not renormalized by interactions. The QO amplitudes show a remarkable difference: the dHvA amplitude is essentially unaffected by interaction, while the SdH amplitude is strongly enhanced.
-
-<b> Selected Refs: </b>
-<ol>
-<li> <b>A. Samanta</b>, Sumilan Banerjee and Mohit Randeria, <em>Effect of interactions on density of states and magnetization Quantum Oscillations in Kondo insulators</em>, In Preparation. </li>
-</ol>
-
 
 {% include base_path %}
 
