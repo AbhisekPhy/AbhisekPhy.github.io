@@ -19,7 +19,7 @@ My current research focuses on low-density unconventional superconductivity in h
 
 <b> Selected Refs: </b>
 <ol> 
-<li> Sayantan Roy, <b>A. Samanta</b>, Nandini Trivedi, <em>Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model</em>, arXiv:2407.01680; <a href="https://arxiv.org/abs/2407.01680"> Link </a> </li>
+<li> <li> <b>A. Samanta</b>, Amulya Ratnakar, Nandini Trivedi and Rajdeep Sensarma, <em>Two-particle spectral function for disordered $s$-wave superconductors: local maps and collective modes </em>, Physical Review B <b>101</b>, 024507 (2020); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.024507"> Link</a> </li>
 
 <li> Sayantan Roy, <b>A. Samanta</b>, Nandini Trivedi, <em>Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model</em>, arXiv:2407.01680; <a href="https://arxiv.org/abs/2407.01680"> Link </a> </li>
 </ol>
