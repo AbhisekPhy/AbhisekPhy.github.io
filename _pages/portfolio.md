@@ -39,9 +39,9 @@ In presence of strong interactions, our formalism can calculate $R_H$ over a lar
 
 <b> Selected Refs: </b>
 <ol>
-<li> Ilia Khait, Sauri Bhattacharyya*, <b>A. Samanta</b>*, Assa Auerbach, <em> Hall anomalies of the doped Mott insulator</em>, NPJ Quantum Materials <b>8</b>, 75 (2023); <a href= "https://www.nature.com/articles/s41535-023-00611-5"> Link </a> </li>
-
 <li> <b>A. Samanta</b>, Daniel P. Arovas, Assa Auerbach, <em>Hall coefficient of semimetals</em>, Physical Review Letters <b>126</b>, 076603 (2021); <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.076603"> Link </a> </li>
+
+<li> Ilia Khait, Sauri Bhattacharyya*, <b>A. Samanta</b>*, Assa Auerbach, <em> Hall anomalies of the doped Mott insulator</em>, NPJ Quantum Materials <b>8</b>, 75 (2023); <a href= "https://www.nature.com/articles/s41535-023-00611-5"> Link </a> </li>
 
 </ol>
 
@@ -65,10 +65,9 @@ Using our new measures, we can also study the MBL-ergodic transition in presence
 
 <b> Selected Refs: </b>
 <ol>
-<li> <b>A. Samanta</b>, Ahana Chakraborty, Rajdeep Sensarma, <em>Many-body localized to ergodic transitions in a system with correlated disorder</em>, Physical Review B <b>106</b>, L060201 (Letter) (2022); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L060201"> Link</a> </li>
-
 <li> <b>A. Samanta</b>, Kedar Damle, Rajdeep Sensarma, <em>Tracking the many-body localized to ergodic transition via extremal statistics of entanglement eigenvalues</em>, Physical Review B <b>102</b>, 104201 (2020); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Link </a> </li>
 
+<li> <b>A. Samanta</b>, Ahana Chakraborty, Rajdeep Sensarma, <em>Many-body localized to ergodic transitions in a system with correlated disorder</em>, Physical Review B <b>106</b>, L060201 (Letter) (2022); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L060201"> Link</a> </li>
 </ol>
 
 
