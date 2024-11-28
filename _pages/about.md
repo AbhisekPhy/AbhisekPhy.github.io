@@ -29,4 +29,4 @@ In addition to addressing purely theoretical questions, I enjoy collaborating wi
 * Sachdev-Ye-Kitaev (SYK) model and Large-N theories  
 * Quantum criticality in compressible lattice; Renormalization Group (RG) analysis
 
-Please visit the [<a href="https://abhisekphy.github.io/portfolio/"> Research</a>]  page for more details about my research. If you are interested in working with me, feel free to contact me!
+Please visit the <a href="https://abhisekphy.github.io/portfolio/"> Research</a> page for more details about my research. If you are interested in working with me, feel free to contact me!
