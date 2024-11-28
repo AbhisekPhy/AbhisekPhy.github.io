@@ -65,7 +65,10 @@ Using our new measures, we can also study the MBL-ergodic transition in presence
 
 <b> Selected Refs: </b>
 <ol>
-<li> <b>A. Samanta</b>, Rajdeep Sensarma, <em>Superconductivity from doublon condensation in the ionic Hubbard model</em>, Physical Review B <b>94</b>, 224517 (2016); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.224517"> Link </a> </li>
+<li> <b>A. Samanta</b>, Ahana Chakraborty, Rajdeep Sensarma, <em>Many-body localized to ergodic transitions in a system with correlated disorder</em>, Physical Review B <b>106</b>, L060201 (Letter) (2022); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L060201"> Link</a> </li>
+
+<li> <b>A. Samanta</b>, Kedar Damle, Rajdeep Sensarma, <em>Tracking the many-body localized to ergodic transition via extremal statistics of entanglement eigenvalues</em>, Physical Review B <b>102</b>, 104201 (2020); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Link </a> </li>
+
 </ol>
 
 
