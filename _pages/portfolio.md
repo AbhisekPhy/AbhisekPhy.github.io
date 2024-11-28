@@ -17,6 +17,7 @@ In our work, we have developed a field-theoretical formalism for disordered supe
 
 My current research focuses on low-density unconventional superconductivity in heterostructure materials (e.g. EuO/KTO interface), which hold promise for future generation applications, such as superconducting qubits, memory storage and single photon detectors.
 
+<b> Selected Refs: </b>
 <p><small>
 <ol> <li> Sayantan Roy, <b>A. Samanta</b>, Nandini Trivedi, <em>Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model</em>, arXiv:2407.01680; <a href="https://arxiv.org/abs/2407.01680"> Link </a> </li>
 </ol>
