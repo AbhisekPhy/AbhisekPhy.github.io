@@ -45,6 +45,7 @@ In presence of strong interactions, our formalism can calculate $R_H$ over a lar
 
 </ol>
 
+---
 ## Effect of interactions on the Quantum Oscillations (QO) in Kondo insulator
 Kondo insulators, such as SmB6 or YbB$x_{12}$, are found to exhibit quantum oscillations in density of states (Shubnikov deHass/SdH) and magnetization (deHass van Alphen/dHvA), even in absence of a Fermi surface. Recently, it has been shown [Panda et al] in a mean-field approach (Hybridization-gap insulators) that SdH and dHvA oscillations in such systems show different frequencies and different field and temperature-dependent amplitudes, in marked contrast with metals. Kondo insulators are, how- ever, strongly correlated systems where interaction effects cannot be a priori ignored. We generalize the periodic Anderson model with Sachdev-Ye-Kitaev (SYK)-like interactions, where the large-N limit allows us to control the calculation. We study the fate of quantum oscillations in Kondo insulators in this solvable limit. We find that the QO frequencies are not renormalized by interactions. The QO amplitudes show a remarkable difference: the dHvA amplitude is essentially unaffected by interaction, while the SdH amplitude is strongly enhanced.
 
