@@ -5,6 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+Below, I outline some of my research directions.
+
 ## Disordered superconductors and their collective modes (Higgs, Goldstone)
 
 <p align="center">
