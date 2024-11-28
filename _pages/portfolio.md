@@ -47,7 +47,6 @@ In presence of strong interactions, our formalism can calculate $R_H$ over a lar
 
 </ol>
 
-
 ---
 
 ## Modification of quantum criticality due to lattice vibrations
