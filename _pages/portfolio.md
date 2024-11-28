@@ -18,7 +18,11 @@ In our work, we have developed a field-theoretical formalism for disordered supe
 My current research focuses on low-density unconventional superconductivity in heterostructure materials (e.g. EuO/KTO interface), which hold promise for future generation applications, such as superconducting qubits, memory storage and single photon detectors.
 
 ## Transport and thermopower properties of semimetals and interacting systems
-![](/images/Hall.jpg){: style="width: 500px; align: centre; border: 10px"}
+
+<p align="center">
+    <img width="800" src="/images/FigHall.jpg" alt="Material Bread logo">
+</p>
+
 The Hall coefficient ($R_H$) has been traditionally used to measure the charge carrier density in transport measurements, via the Drude relation $R_H\sim \frac{1}{n}$. However, this relation may break down in semimetals due to the presence of multiple bands and intriguing Fermi surface topology. Multiband conductivity calculations involve coupled Boltzmann equations with interband collision integrals which are quite challenging. We can avoid this difficulty by using a recently developed Hall coefficient formula [Auerbach et al] written in terms of thermodynamic susceptibilities. We have calculated the deviation of $R_H$ from the Drude relation in spin-split semiconductor bands, as well as Weyl and nodal-line semimetals [<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104201"> Samanta et al</a>]. We proposed experiments to measure these deviations. 
 
 In interacting systems, we have calculated $R_H$ over a large range of temperatures between the antiferromagnetic interaction and the Mott gap scales, by using high-temperature expansion of the t-J model, supplemented by DQMC simulations of the strongly interacting Hubbard model. Our calculation explains the observation of "Hall anomalies" in experiments, i.e. abrupt changes in sign and magnitude of $R_H$ in high temperature cuprates. My current research interest extends to explore the thermopower properties (Seebeck) of several multi-band models (such as kagome superconductors, Kane-Mele models), semimetals (Weyl, nodal-line) and interacting systems. These systems promise to provide an interesting playground with recent experimental observations of different sign changes and anomalies, as well as enhancement of thermopower, necessary for making effecicient thermoelectric materials.
