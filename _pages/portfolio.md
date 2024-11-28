@@ -18,8 +18,8 @@ In our work, we have developed a field-theoretical formalism for disordered supe
 My current research focuses on low-density unconventional superconductivity in heterostructure materials (e.g. EuO/KTO interface), which hold promise for future generation applications, such as superconducting qubits, memory storage and single photon detectors.
 
 <b> Selected Refs: </b>
-<ol> 
-<li> <li> <b>A. Samanta</b>, Amulya Ratnakar, Nandini Trivedi and Rajdeep Sensarma, <em>Two-particle spectral function for disordered $s$-wave superconductors: local maps and collective modes </em>, Physical Review B <b>101</b>, 024507 (2020); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.024507"> Link</a> </li>
+<ol>
+<li> <b>A. Samanta</b>, Amulya Ratnakar, Nandini Trivedi and Rajdeep Sensarma, <em>Two-particle spectral function for disordered $s$-wave superconductors: local maps and collective modes </em>, Physical Review B <b>101</b>, 024507 (2020); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.024507"> Link</a> </li>
 
 <li> Bo Fan, <b>A Samanta</b>, Antonio M. Garcia-Garcia, <em>Tuning superinductors by quantum coherence effects for enhancing quantum computing</em>, Physical Review Letters <b>130</b>, 047001 (2023); <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.047001"> Link</a> </li>
 </ol>
