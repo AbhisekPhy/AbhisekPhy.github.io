@@ -19,8 +19,8 @@ My current research focuses on low-density unconventional superconductivity in h
 
 <small>
 <b> Selected references: </b>
-** asbjbk
-** bjhbkb
+* asbjbk
+* bjhbkb
 
 </small>
 
