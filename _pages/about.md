@@ -31,7 +31,7 @@ If you have your own funding (e.g., NBHM) or seek assistance with a position, pl
 * Superconductivity in thin-films and nanowires – Applications in Superconducting Qubits and Quantum Computations
 * Quantum transport theory: Calculation of Hall, thermopower, Nernst coefficients
 * Entanglement, Many-body localization (MBL), and Quantum Information
-* Quantum Hall Effects
+* Quantum Hall Effects in Graphene
 * Quantum oscillations in Kondo insulators  
 * Sachdev-Ye-Kitaev (SYK) model and Large-N theories  
 * Quantum criticality in compressible lattice; Renormalization Group (RG) analysis
