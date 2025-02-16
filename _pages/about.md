@@ -21,7 +21,8 @@ In addition to addressing purely theoretical questions, I enjoy collaborating wi
 
 **We have openings for both PostDoc and PhD positions!** 
 
-**Postdoc positions:** Our group has postdoc openings to work in Condensed Matter Theory (in the below-mentioned areas). Interested candidates may apply here Postdocad (**Deadline – March 9, 2025**) or write to me directly. <br>
+**Postdoc positions:** Our group has postdoc openings to work in Condensed Matter Theory (in the below-mentioned areas). Interested candidates may apply here: <a href="
+https://drive.google.com/file/d/1Ps2A_zY7QC-ExQlvMnN5mgfUSTHaOMpY/view?usp=sharing"> adPostDoc</a> (**Deadline – March 9, 2025**) or write to me directly. <br>
 If you have your own funding (e.g., NBHM) or seek assistance with a position, please feel free to write to me.
 
 **PhD positions:** We are looking for motivated and bright students to join our Condensed Matter Theory group at IIT Gandhinagar. Interested students are encouraged to apply here: <a href="https://iitgn.ac.in/assets/pdfs/PhD-Admission-2025-26-Semester-I-1.pdf"> adPhD</a> (**Deadline – March 26, 2025**). If you have any queries, please feel free to write to me.
