@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Physics, Ramakrishna Mission Residential College, Narendrapur, University of Calcutta, 2012
-* M.Sc. in Physics, Indian Institute of Technology, Kanpur, 2014
 * Ph.D in Physics, 2014-2019
   * Department of Theoretical Physics (DTP), Tata Institute of Fundamental research, Mumbai
   * Advisor: Prof. Rajdeep Sensarma
+* M.Sc. in Physics, Indian Institute of Technology, Kanpur, 2014
+* B.Sc. in Physics, Ramakrishna Mission Residential College, Narendrapur, University of Calcutta, 2012
+
 
 Work experience
 ======
+* 2024-: Assistant Professor
+  * Department of Physics
+  * Indian Institute of Technology Gandhinagar (IITGN), Gandhinagar, Gujarat, India
+  
+* 2022-2024: Postdoctoral Researcher
+  * Department of Physics, The Ohio State University, Columbus (OH), USA 
+  * Supervisors: Prof. Mohit Randeia and Prof. Nandini Trivedi
+
 * 2019-2022: Postdoctoral Researcher
   * Physics Department, Technion -- Israel Institute of Technology, Haifa, Israel 
   * Supervisors: Prof. Assa Auerbach and Prof. Daniel Podolsky
-
-* 2022-: Postdoctoral Researcher
-  * Department of Physics, The Ohio State University, Columbus (OH), USA 
-  * Supervisors: Prof. Mohit Randeia and Prof. Nandini Trivedi
   
 ---
 
