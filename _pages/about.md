@@ -19,7 +19,7 @@ In addition to addressing purely theoretical questions, I enjoy collaborating wi
 
 ---
 
-**We are hiring!**
+**We have openings for both PostDoc and PhD positions. Details below:**
 
 ## Specific Research Topics:
 
