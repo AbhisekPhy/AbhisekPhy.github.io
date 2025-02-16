@@ -21,7 +21,7 @@ In addition to addressing purely theoretical questions, I enjoy collaborating wi
 
 **We have openings for both PostDoc and PhD positions!** 
 
-**Postdoc positions:** We have postdoc openings in Condensed Matter Theory to work in the below-mentioned areas. You may refer to the advertisement Postdocad. Please feel free to write to me.
+**Postdoc positions:** Our group has postdoc openings to work in Condensed Matter Theory. You may apply against the advertisement Postdocad. Please feel free to write to me.
 If you have your own funding (e.g., NBHM) or seek assistance with a position, please feel free to write to me.
 
 ## Specific Research Topics:
