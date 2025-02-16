@@ -24,8 +24,7 @@ In addition to addressing purely theoretical questions, I enjoy collaborating wi
 **Postdoc positions:** Our group has postdoc openings to work in Condensed Matter Theory (in the below-mentioned areas). You may apply against the advertisement Postdocad. If you have any questions, please feel free to write to me.
 If you have your own funding (e.g., NBHM) or seek assistance with a position, please feel free to write to me.
 
-**PhD positions:** We are looking for good and motivated students to join our Condensed Matter Theory group at IIT Gandhinagar. You may apply against the Instiadvertisement Postdocad. If you have any questions, please feel free to write to me.
-If you have your own funding (e.g., NBHM) or seek assistance with a position, please feel free to write to me.
+**PhD positions:** We are looking for motivated and bright students to join our Condensed Matter Theory group at IIT Gandhinagar. Interested students are encouraged to apply here PhDad (**Deadline – March 26, 2025**). If you have any questions, please feel free to write to me.
 
 ## Specific Research Topics:
 
