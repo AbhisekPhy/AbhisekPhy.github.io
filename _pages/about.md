@@ -19,7 +19,9 @@ In addition to addressing purely theoretical questions, I enjoy collaborating wi
 
 ---
 
-**We have openings for both PostDoc and PhD positions. Details below:**
+**We have openings for both PostDoc and PhD positions!** 
+
+**Postdoc positions:** Details below:
 
 ## Specific Research Topics:
 
