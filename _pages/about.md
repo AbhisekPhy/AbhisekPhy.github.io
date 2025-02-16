@@ -30,8 +30,8 @@ If you have your own funding (e.g., NBHM) or seek assistance with a position, pl
 
 * Superconductivity in thin-films and nanowires: Role of disorder and fluctuations
 * Quantum transport theory: Calculation of Hall, thermopower, Nernst coefficients
+* Entanglement, Many-body localization (MBL), and Quantum Information
 * Quantum Hall Effects
-* Entanglement, thermalization and Many-body localization (MBL)
 * Quantum oscillations in Kondo insulators  
 * Sachdev-Ye-Kitaev (SYK) model and Large-N theories  
 * Quantum criticality in compressible lattice; Renormalization Group (RG) analysis
