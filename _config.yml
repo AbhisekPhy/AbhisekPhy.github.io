@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Abhisek Samanta"
   avatar           : "Photo_Abhisek.jpg"
-  bio              : "Assistant Professor,  <br /> Indian Institute of Technology <br /> Gandhinagar (IITGN), Gujarat <br />" #<br /> <b>Email:</b> abhisek.samanta@iitgn.ac.in"
-  location         : "Gandhinagar, Gujagat, India"
+  bio              : "Assistant Professor,  <br /> Indian Institute of Technology <br /> Gandhinagar (IITGN) <br />" #<br /> <b>Email:</b> abhisek.samanta@iitgn.ac.in"
+  location         : "Gandhinagar, Gujarat, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xQc9Gx8AAAAJ&hl=en"
