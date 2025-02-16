@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! I am a theoretical physicist currently working at the Indian Institute of Technology Gandhinagar (IITGN).
+Welcome to my webpage! I am a theoretical physicist currently working at the IIT Gandhinagar.
 
 My research interests lie in **Condensed Matter Physics**, focusing on **strongly correlated quantum many-body systems**. When a large number of quantum particles come together and interact, their collective behavior gives rise to various "emergent" phases, such as magnetic, insulating, topological, or even novel superconducting states. I study such phenomena theoretically in quantum materials, with applications ranging from high-temperature superconductors to the design of quantum devices and technologies for quantum information.
 
