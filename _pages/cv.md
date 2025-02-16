@@ -13,7 +13,7 @@ Work experience
 ======
 * 2024-: Assistant Professor
   * Department of Physics
-  * Indian Institute of Technology Gandhinagar (IITGN), Gandhinagar, Gujarat, India
+  * Indian Institute of Technology Gandhinagar, Gujarat, India
   
 * 2022-2024: Postdoctoral Researcher
   * Department of Physics, The Ohio State University, Columbus (OH), USA 
@@ -26,9 +26,9 @@ Work experience
 Education
 ======
 * 2014-2019: Ph.D in Physics
-  * Department of Theoretical Physics (DTP), Tata Institute of Fundamental Research (TIFR), Mumbai
+  * Department of Theoretical Physics (DTP), Tata Institute of Fundamental Research, Mumbai
   * Advisor: Prof. Rajdeep Sensarma
-* 2012-2014: M.Sc. in Physics, Indian Institute of Technology Kanpur (IITK)
+* 2012-2014: M.Sc. in Physics, Indian Institute of Technology Kanpur
 * 2009-2012: B.Sc. in Physics, Ramakrishna Mission Residential College, Narendrapur, University of Calcutta
 
   
