@@ -25,11 +25,11 @@ Work experience
 
 Education
 ======
-* Ph.D in Physics, 2014-2019
-  * Department of Theoretical Physics (DTP), Tata Institute of Fundamental research, Mumbai
+* 2014-2019: Ph.D in Physics
+  * Department of Theoretical Physics (DTP), Tata Institute of Fundamental Research (TIFR), Mumbai
   * Advisor: Prof. Rajdeep Sensarma
-* M.Sc. in Physics, Indian Institute of Technology, Kanpur, 2014
-* B.Sc. in Physics, Ramakrishna Mission Residential College, Narendrapur, University of Calcutta, 2012
+* 2012-2014: M.Sc. in Physics, Indian Institute of Technology Kanpur (IITK)
+* 2009-2012: B.Sc. in Physics, Ramakrishna Mission Residential College, Narendrapur, University of Calcutta
 
   
 ---
