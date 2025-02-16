@@ -25,7 +25,7 @@ In addition to addressing purely theoretical questions, I enjoy collaborating wi
 https://drive.google.com/file/d/1Ps2A_zY7QC-ExQlvMnN5mgfUSTHaOMpY/view?usp=sharing"> adPostDoc </a> (**Deadline – March 9, 2025**) or write to me directly. <br>
 If you have your own funding (e.g., NBHM) or seek assistance with a position, please feel free to write to me.
 
-**PhD positions:** We are looking for motivated and bright students to join our Condensed Matter Theory group in the upcoming Summer Semester 2025. Interested students are encouraged to apply here: <a href="https://iitgn.ac.in/assets/pdfs/PhD-Admission-2025-26-Semester-I-1.pdf"> adPhD</a> (**Deadline – March 26, 2025**). If you want to discuss possible research directions, please feel free to write to me.
+**PhD positions:** We are looking for motivated and bright students to join our Condensed Matter Theory group at IITGN in the upcoming Summer Semester 2025. Interested students are encouraged to apply here: <a href="https://iitgn.ac.in/assets/pdfs/PhD-Admission-2025-26-Semester-I-1.pdf"> adPhD</a> (**Deadline – March 26, 2025**). If you want to discuss possible research directions, please feel free to write to me.
 
 ## Specific Research Topics:
 
