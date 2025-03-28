@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 
-<ol> <li> Noble Gluscevich*, <b>A. Samanta</b>*, Sourav Manna, Bitan Roy, <em>Dynamic mass generation on two-dimensional electronic hyperbolic lattices</em>, Physical Review B <b>111</b>, L121108 (Letter) (2024) [<b>Editor's Suggestion</b>]; <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L121108"> Link </a> </li>
+<ol> <li> Simrandeep Kaur, Unmesh Ghorai, <b>Abhisek Samanta</b>, Kenji Watanabe, Takashi Taniguchi, Rajdeep Sensarma, Aveek Bid, <em>Symmetry broken states at high displacement fields in ABA trilayer graphene</em>, arXiv:2407.01680; <a href="https://arxiv.org/abs/2503.21314"> Link </a> </li>
+  
+<li> Noble Gluscevich*, <b>A. Samanta</b>*, Sourav Manna, Bitan Roy, <em>Dynamic mass generation on two-dimensional electronic hyperbolic lattices</em>, Physical Review B <b>111</b>, L121108 (Letter) (2024) [<b>Editor's Suggestion</b>]; <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L121108"> Link </a> </li>
 
 <li> Sayantan Roy, <b>A. Samanta</b>, Nandini Trivedi, <em>Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model</em>, arXiv:2407.01680; <a href="https://arxiv.org/abs/2407.01680"> Link </a> </li>
                                                 
