@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<ol> <li> Noble Gluscevich*, <b>A. Samanta</b>*, Sourav Manna, Bitan Roy, <em>Dynamic mass generation on two-dimensional electronic hyperbolic lattices</em>, Physical Review B <b>111</b>, L121108 (Letter) (2024); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L121108"> Link </a> </li>
+<ol> <li> Noble Gluscevich*, <b>A. Samanta</b>*, Sourav Manna, Bitan Roy, <em>Dynamic mass generation on two-dimensional electronic hyperbolic lattices</em>, Physical Review B <b>111</b>, L121108 (Letter) (2024) [<b>Editor's Suggestion</b>]; <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L121108"> Link </a> </li>
 
 <li> Sayantan Roy, <b>A. Samanta</b>, Nandini Trivedi, <em>Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model</em>, arXiv:2407.01680; <a href="https://arxiv.org/abs/2407.01680"> Link </a> </li>
                                                 
