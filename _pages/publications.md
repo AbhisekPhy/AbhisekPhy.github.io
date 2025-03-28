@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 
-<ol> <li> Sayantan Roy, <b>A. Samanta</b>, Nandini Trivedi, <em>Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model</em>, arXiv:2407.01680; <a href="https://arxiv.org/abs/2407.01680"> Link </a> </li>
+<ol> <li> Noble Gluscevich*, <b>A. Samanta</b>*, Sourav Manna, Bitan Roy, <em>Dynamic mass generation on two-dimensional electronic hyperbolic lattices</em>, Physical Review B <b>111</b>, L121108 (Letter) (2024); <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L121108"> Link </a> </li>
+
+<li> Sayantan Roy, <b>A. Samanta</b>, Nandini Trivedi, <em>Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model</em>, arXiv:2407.01680; <a href="https://arxiv.org/abs/2407.01680"> Link </a> </li>
                                                 
 <li> <b>A. Samanta</b>, Itay Mangel, Amit Keren, Daniel P. Arovas, Assa Auerbach, <em>The two critical temperatures conundrum in La$_{1.83}$Sr$_{0.17}$CuO$_4$ </em>, SciPost Physics <b>16</b>, 148 (2024); <a href="https://scipost.org/SciPostPhys.16.6.148"> Link </a>  </li>
 
 <li> W. Silva, M. Araujo, S. Roy, <b>A. Samanta</b>, N. Costa, N. Trivedi, T. Paiva, <em>Effects of strong electronic interactions on the thermopower properties of the repulsive Hubbard model</em>, Physical Review B <b>108</b>, 075101 (2023); <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.075101"> Link </a> </li>
 
 <li> Ilia Khait, Sauri Bhattacharyya*, <b>A. Samanta</b>*, Assa Auerbach, <em> Hall anomalies of the doped Mott insulator </em>, NPJ Quantum Materials <b>8</b>, 75 (2023); <a href= "https://www.nature.com/articles/s41535-023-00611-5"> Link </a> </li>
-
-<li> Noble Gluscevich*, <b>A. Samanta</b>*, Sourav Manna, Bitan Roy, <em>Dynamic mass generation on two-dimensional electronic hyperbolic lattices</em>, arXiv:2302.04864; <a href= "https://arxiv.org/abs/2302.04864"> Link </a> </li>
 
 <li> Bo Fan, <b>A Samanta</b>, Antonio M. Garcia-Garcia, <em>Tuning superinductors by quantum coherence effects for enhancing quantum computing</em>, Physical Review Letters <b>130</b>, 047001 (2023); <a href= "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.047001"> Link</a> </li>
 
