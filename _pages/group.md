@@ -9,7 +9,7 @@ author_profile: true
 
 ## Postdocs
 
-1. Debamalya Dutta (debamalya.dutta@iitgn.ac.in) <br/>
+1. **Debamalya Dutta** (debamalya.dutta@iitgn.ac.in) <br/>
    PhD, NISER Bhubaneswar
 
    <img src="/images/Photo_DD.jpg" alt="drawing" width="200"/>
