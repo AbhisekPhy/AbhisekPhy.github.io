@@ -5,7 +5,7 @@ permalink: /opening/
 author_profile: true
 ---
 
-*Postdoc positions:* Currently, there is no Postdoc opening in my group. 
+*Postdoc positions:* Currently, there is no Postdoc opening in my group. If you have your own funding (e.g., NBHM) or seek assistance with a position, please feel free to write to me.
 
 *Postdoc positions:* We are looking for motivated and bright students to join our Condensed Matter Theory group at IITGN. Interested students are encouraged to write to me with your CV () here: adPhD (Deadline – March 26, 2025). If you want to discuss possible research directions, please feel free to write to me.
 
