@@ -12,7 +12,9 @@ author_profile: true
 1. Debamalya Dutta (debamalya.dutta@iitgn.ac.in) <br/>
    PhD, NISER Bhubaneswar
 
-2. Karthik V. (karthik.v@iitgn.ac.in) <br/>
+   <img src="/images/Photo_DD.jpg" alt="drawing" width="200"/>
+
+3. Karthik V. (karthik.v@iitgn.ac.in) <br/>
    PhD, IISER Thiruvananthapuram
 
 
