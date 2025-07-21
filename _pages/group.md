@@ -9,11 +9,11 @@ author_profile: true
 
 ## Postdocs
 
-1. Debamalya Dutta
+1. Debamalya Dutta <br/>
    PhD, NISER Bhubaneswar
 
-2. Karthik V.
-   PhD, IISER Tiruvantaparam
+2. Karthik V. <br/>
+   PhD, IISER Thiruvananthapuram
 
 
 ## PhD Students
