@@ -14,13 +14,13 @@ author_profile: true
 
    <img src="/images/Photo_DD.jpg" alt="drawing" width="200"/>
 
-3. Karthik V. (karthik.v@iitgn.ac.in) <br/>
+3. **Karthik V.** (karthik.v@iitgn.ac.in) <br/>
    PhD, IISER Thiruvananthapuram
 
 
 ## PhD Students
 
-1. Koustabh Gogoi (koustabh.gogoi@iitgn.ac.in) <br/>
+1. **Koustabh Gogoi** (koustabh.gogoi@iitgn.ac.in) <br/>
    MSc, IIT Guwahati
 
 <!-- 1. Ph.D. Michal Zimmerman (michal.zimmerman@mail.huji.ac.il) -->
