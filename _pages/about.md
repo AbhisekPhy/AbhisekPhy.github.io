@@ -17,6 +17,8 @@ My research spans a broad area of condensed matter physics, employing a variety 
 
 In addition to addressing purely theoretical questions, I enjoy collaborating with experimentalists to connect theory with real-world observations.
 
+<!-- 
+
 ---
 
 **We have openings for both PostDoc and PhD positions!** 
@@ -28,6 +30,8 @@ If you have your own funding (e.g., NBHM) or seek assistance with a position, pl
 **PhD positions:** We are looking for motivated and bright students to join our Condensed Matter Theory group at IITGN in the upcoming Summer Semester 2025. Interested students are encouraged to apply here: <a href="https://iitgn.ac.in/assets/pdfs/PhD-Admission-2025-26-Semester-I-1.pdf"> adPhD</a> (**Deadline – March 26, 2025**). If you want to discuss possible research directions, please feel free to write to me.
 
 ---
+
+-->
 
 ## Specific Research Topics:
 
