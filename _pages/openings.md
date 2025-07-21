@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Openings"
-permalink: /opening/
+permalink: /openings/
 author_profile: true
 ---
 
