@@ -5,7 +5,7 @@ permalink: /opening/
 author_profile: true
 ---
 
-**Junior Research Fellow (JRF) position:** Currently, we have a opening for JRF through XXX. If you have your own funding (e.g., NBHM) or seek assistance with a position, please feel free to write to me.
+**Junior Research Fellow (JRF) position:** Currently, we have an opening for a Junior Research Fellow (JRF) position funded by the Anusandhan National Research Foundation (ANRF). 
 
 **PhD positions:** We are looking for motivated and bright students to join our Condensed Matter Theory group at IITGN (through the IITGN PhD selection process). Interested students are encouraged to write to me with your CV (with detailed academic record) and research interests.
 
