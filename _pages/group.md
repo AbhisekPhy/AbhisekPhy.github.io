@@ -7,7 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-## Graduate Students
+## Postdocs
+
+1. Debamalya Dutta
+   PhD, NISER Bhubaneswar
+
+2. Karthik V.
+   PhD, IISER Tiruvantaparam
+
+
+## PhD Students
 
 1. Ph.D. Michal Zimmerman (michal.zimmerman@mail.huji.ac.il) 
 
@@ -28,5 +37,8 @@ author_profile: true
 4. M.Sc. Aviv Barnea (aviv.barnea606@gmail.com)
 
     <img src="/images/Aviv.jpg" alt="drawing" width="200"/>
+
+## Project Students
+
 
 
