@@ -9,14 +9,17 @@ author_profile: true
 
 ## Postdocs
 
-1. Debamalya Dutta <br/>
+1. Debamalya Dutta (debamalya.dutta@iitgn.ac.in) <br/>
    PhD, NISER Bhubaneswar
 
-2. Karthik V. <br/>
+2. Karthik V. (karthik.v@iitgn.ac.in) <br/>
    PhD, IISER Thiruvananthapuram
 
 
 ## PhD Students
+
+1. Koustabh Gogoi (koustabh.gogoi@iitgn.ac.in) <br\>
+   MSc, IIT Guwahati
 
 1. Ph.D. Michal Zimmerman (michal.zimmerman@mail.huji.ac.il) 
 
