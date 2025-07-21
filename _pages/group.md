@@ -21,7 +21,7 @@ author_profile: true
 1. Koustabh Gogoi (koustabh.gogoi@iitgn.ac.in) <br/>
    MSc, IIT Guwahati
 
-#1. Ph.D. Michal Zimmerman (michal.zimmerman@mail.huji.ac.il) 
+<!1. Ph.D. Michal Zimmerman (michal.zimmerman@mail.huji.ac.il) >
 
 #    <img src="/images/Michal.jpg" alt="drawing" width="200"/>
 
