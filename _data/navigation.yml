@@ -14,7 +14,10 @@ main:
   #   url: /talks/    
 
 - title: "Teaching"
-  url: /teaching/    
+  url: /teaching/
+
+- title: "Group"
+  url: /Group/    
     
   # - title: "Blog Posts"
   #   url: /year-archive/
