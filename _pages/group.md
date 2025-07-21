@@ -15,7 +15,7 @@ author_profile: true
    <img src="/images/Photo_DD.jpg" alt="drawing" width="200"/>
 
 3. **Karthik V.** (karthik.v@iitgn.ac.in) <br/>
-   PhD, IISER Thiruvananthapuram
+   Integrated PhD, IISER Thiruvananthapuram
 
 
 ## PhD Students
