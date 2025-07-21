@@ -25,9 +25,6 @@ author_profile: true
 
 <!-- 1. Ph.D. Michal Zimmerman (michal.zimmerman@mail.huji.ac.il) -->
 
-#    <img src="/images/Michal.jpg" alt="drawing" width="200"/>
-
-
 ## Project Students
 
 1. Rishabh Khatri (IITGN) <br/>
