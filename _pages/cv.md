@@ -44,7 +44,7 @@ Education
 * Numerical Skills
   * Quantum Monte Carlo (QMC) and analytic continuation methods
   * Efficient Classical Monte Carlo methods (Wolff cluster, Worm algorithm) 
-  * Large scale exact diagonalization, Lanczos methods in interactig electron systems and spin systems
+  * Large-scale Exact Diagonalization (ED), Lanczos methods in interacting electron systems and spin systems
 * Computational/coding Language
   * Proficient in C, Julia, Python, Matlab, Mathematica, etc.
 
