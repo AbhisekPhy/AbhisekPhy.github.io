@@ -11,7 +11,7 @@ redirect_from:
 
 Grants
 ======
-* 2025-2028: ANRF Early Career grant
+* 2025-2028: Prime Minister Early Career Research Grant by Anusandhan National Research Foundation (ANRF)
 * 2024-2026: IIT Gandhinagar Research Excellence Fellowship
   
 Work experience
