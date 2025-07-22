@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Grants
+======
+* 2025-2028: ANRF Early Career grant
+* 2024-2026: IIT Gandhinagar Research Excellence Fellowship
+  
 Work experience
 ======
 * 2024-: Assistant Professor
