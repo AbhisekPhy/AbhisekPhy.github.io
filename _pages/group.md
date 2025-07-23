@@ -29,7 +29,7 @@ author_profile: true
 
 <!-- 1. Ph.D. Michal Zimmerman (michal.zimmerman@mail.huji.ac.il) -->
 
-## Project Students
+## MSc Project Students
 
 1. Rishabh Khatri (IITGN) <br/>
 2. Jainam Savla (IITGN) <br/>
