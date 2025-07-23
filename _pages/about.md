@@ -36,6 +36,7 @@ If you have your own funding (e.g., NBHM) or seek assistance with a position, pl
 ## Specific Research Topics:
 
 * Superconductivity in thin-films and nanowires – Applications in Superconducting Qubits and Quantum Computations
+* Frustrated magnetism, altermagnetism
 * Quantum transport theory: Calculation of Hall, thermopower, Nernst coefficients
 * Entanglement, Many-body localization (MBL), and Quantum Information
 * Quantum Hall Effects in Graphene
