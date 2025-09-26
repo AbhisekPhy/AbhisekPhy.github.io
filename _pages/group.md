@@ -29,7 +29,7 @@ author_profile: true
 
 ## JRF Students
 
-1. **Suman Kumar Nath** (koustabh.gogoi@iitgn.ac.in) <br/>
+1. **Suman Kumar Nath** (nathsuman@iitgn.ac.in) <br/>
    MSc, IIT Gandhinagar
 
    <img src="/images/Photo_Suman.jpg" alt="drawing" width="220"/>
