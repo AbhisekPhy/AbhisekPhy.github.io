@@ -10,6 +10,6 @@ author_profile: true
 Interested students are encouraged to apply here:  <a href="
 https://drive.google.com/file/d/18eM4sSABOqRDx81xcxoFSIslb-FNKawk/view?usp=drive_link"> adJRF</a> (**Deadline – August 3, 2025**). -->
 
-**PhD positions:** We are looking for motivated and bright students to join our Condensed Matter Theory group at IITGN (through the IITGN PhD admission process <a href="https://iitgn.ac.in/admissions/phd">). Interested students are encouraged to write to me with your CV (with detailed academic record) and research interests.
+**PhD positions:** We are looking for motivated and bright students to join our Condensed Matter Theory group at IITGN (through the IITGN PhD admission process <a href="https://iitgn.ac.in/admissions/phd"> IITGN_PhD_Admission </a>). Interested students are encouraged to write to me with your CV (with detailed academic record) and research interests.
 
 **Postdoc positions:** Currently, there is no Postdoc opening in our group. If you have your own funding (e.g., NBHM) or seek assistance with a position, please feel free to write to me.
