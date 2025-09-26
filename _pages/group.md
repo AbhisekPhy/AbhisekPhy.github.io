@@ -27,6 +27,14 @@ author_profile: true
 
    <img src="/images/Photo_Koustabh.jpg" alt="drawing" width="220"/>
 
+## JRF Students
+
+1. **Suman Kumar Nath** (koustabh.gogoi@iitgn.ac.in) <br/>
+   MSc, IIT Gandhinagar
+
+   <img src="/images/Photo_Koustabh.jpg" alt="drawing" width="220"/>
+
+
 <!-- 1. Ph.D. Michal Zimmerman (michal.zimmerman@mail.huji.ac.il) -->
 
 ## MSc Project Students
