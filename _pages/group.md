@@ -41,11 +41,9 @@ author_profile: true
 
 ## MSc Project Students
 
-1. Rishabh Khatri (IITGN) <br/>
-2. Jainam Savla (IITGN) <br/>
-3. Sankesh Jain (IITGN) <br/>
-4. Mohit Kumar Sengar (IITGN) <br/>
-5. Tanishka (IITGN) <br/>
-
-
+1. Sankesh Jain (IITGN) <br/>
+2. Mohit Kumar Sengar (IITGN) <br/>
+3. Tanishka (IITGN) <br/>
+4. Rishabh Khatri (IITGN) <br/>
+5. Jainam Savla (IITGN) <br/>
 
