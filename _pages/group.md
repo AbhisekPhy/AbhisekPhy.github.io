@@ -27,12 +27,14 @@ author_profile: true
 
    <img src="/images/Photo_Koustabh.jpg" alt="drawing" width="220"/>
 
-## JRF Students
-
-1. **Suman Kumar Nath** (nathsuman@iitgn.ac.in) <br/>
+2. **Suman Kumar Nath** (nathsuman@iitgn.ac.in) <br/>
    MSc, IIT Gandhinagar
 
    <img src="/images/Photo_Suman.jpg" alt="drawing" width="220"/>
+
+## JRF Students
+
+   We have an opening
 
 
 <!-- 1. Ph.D. Michal Zimmerman (michal.zimmerman@mail.huji.ac.il) -->
