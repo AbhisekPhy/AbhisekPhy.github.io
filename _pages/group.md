@@ -32,6 +32,12 @@ author_profile: true
 
    <img src="/images/Photo_Suman.jpg" alt="drawing" width="220"/>
 
+3. **Simran** (simran@iitgn.ac.in) <br/>
+   MSc, IIT Gandhinagar
+
+   <img src="/images/Photo_Suman.jpg" alt="drawing" width="220"/>
+
+
 ## JRF Students
 
    We have an opening
