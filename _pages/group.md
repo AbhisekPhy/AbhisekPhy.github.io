@@ -33,7 +33,7 @@ author_profile: true
    <img src="/images/Photo_Suman.jpg" alt="drawing" width="220"/>
 
 3. **Simran** (simran@iitgn.ac.in) <br/>
-   MSc, IIT Gandhinagar
+   MSc, Punjab University
 
    <img src="/images/Photo_Suman.jpg" alt="drawing" width="220"/>
 
