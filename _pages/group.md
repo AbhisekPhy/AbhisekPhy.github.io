@@ -35,7 +35,7 @@ author_profile: true
 3. **Simran** (simran@iitgn.ac.in) <br/>
    MSc, Punjab University
 
-   <img src="/images/Photo_Suman.jpg" alt="drawing" width="220"/>
+   <img src="/images/Photo_Simran.jpg" alt="drawing" width="220"/>
 
 
 ## JRF Students
