@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-<ol> <li> Noble Gluscevich*, <b>A. Samanta</b>*, Sourav Manna, Bitan Roy, <em>Dynamic mass generation on two-dimensional electronic hyperbolic lattices</em>, Physical Review B <b>111</b>, L121108 (Letter) (2025) [<b>Editor's Suggestion</b>]; <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L121108"> Link </a> </li>
-
-<li> Simrandeep Kaur, Unmesh Ghorai, <b>A. Samanta</b>, Kenji Watanabe, Takashi Taniguchi, Rajdeep Sensarma, Aveek Bid, <em>Symmetry broken states at high displacement fields in ABA trilayer graphene</em>, Physical Review B <b>111</b>, L121108 (Letter) (2025) [<b>Editor's Suggestion</b>]; <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L121108"> Link </a> </li>
+<ol> <li> Simrandeep Kaur, Unmesh Ghorai, <b>A. Samanta</b>, Kenji Watanabe, Takashi Taniguchi, Rajdeep Sensarma, Aveek Bid, <em>Symmetry broken states at high displacement fields in ABA trilayer graphene</em>, Physical Review B <b>112</b>, L161103 (Letter) (2025) [<b>Editor's Suggestion</b>]; <a href= "https://journals.aps.org/prb/abstract/10.1103/nm8b-5vgm"> Link </a> </li>
   
+<li> Noble Gluscevich*, <b>A. Samanta</b>*, Sourav Manna, Bitan Roy, <em>Dynamic mass generation on two-dimensional electronic hyperbolic lattices</em>, Physical Review B <b>111</b>, L121108 (Letter) (2025) [<b>Editor's Suggestion</b>]; <a href= "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L121108"> Link </a> </li>
+
 <li> Sayantan Roy, <b>A. Samanta</b>, Nandini Trivedi, <em>Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model</em>, arXiv:2407.01680 (under review in PRL); <a href="https://arxiv.org/abs/2407.01680"> Link </a> </li>
                                                 
 <li> <b>A. Samanta</b>, Itay Mangel, Amit Keren, Daniel P. Arovas, Assa Auerbach, <em>The two critical temperatures conundrum in La$_{1.83}$Sr$_{0.17}$CuO$_4$ </em>, SciPost Physics <b>16</b>, 148 (2024); <a href="https://scipost.org/SciPostPhys.16.6.148"> Link </a>  </li>
